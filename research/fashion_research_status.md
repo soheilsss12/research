@@ -169,3 +169,17 @@
 - `reports/گزارش_جامع_تحقیقات_بازار_فناوری_مد_و_پوشاک_ایران_نسخه_صفر.docx` — سند مادر رسمی با فونت B Zar، فهرست پویا، dashboard وضعیت پرونده‌ها، جدول‌ها و نمودار مستند، scope، methodology، architecture ۵۰۰+ صفحه‌ای و صف پژوهش.
 
 وضعیت register در نسخه صفر: ۴۱ پرونده؛ ۲ فعال، ۲ Watch، ۳ Pause، ۲ اولویت پایین، ۳۰ رد/آرشیوی و ۲ خارج از دامنه. این شمارش «اندازه بازار» یا «احتمال موفقیت» نیست؛ فقط وضعیت فعلی تصمیم‌های پژوهشی است. شروع پرونده‌های کامل با `F-01: Fashion Sample Circulation & Creator Seeding OS` خواهد بود.
+
+---
+
+## گزارش جامع بازار — نسخه ۰٫۲ / تکمیل desk-research سه پرونده
+
+سه پروندهٔ نخست به سند مادر `reports/fashion_market_research_master_v0.docx` افزوده شد و نسخهٔ فارسی هم‌نام نیز همگام شد:
+
+| کد | پرونده | desk research | حکم بدون تغییر | گیت باقی‌مانده |
+|---|---|---|---|---|
+| F-01 | مدیریت گردش نمونهٔ لباس و Creator Seeding | کامل؛ Launchmetrics/Fashion GPS، substituteهای influencer/agency/Excel ایران، model، risk و evidence ledger ثبت شد. | فعال برای اعتبارسنجی؛ نه Pass | ۱۵ مصاحبه artifact-based + دو pilot پولی ۶–۸ هفته‌ای |
+| F-02 | تداوم لباس و مدیریت دارایی production | کامل؛ SyncOnSet، Dramatify، Ready4Set، substituteهای دستی/عمومی ایران، model پروژه‌ای و risk ثبت شد. | فعال برای اعتبارسنجی؛ نه Pass | ۱۲–۱۵ مصاحبه + دو pilot پروژه‌ای با آزمون mobile/offline |
+| F-03 | Tech Pack → sample/fit → locked bulk release | کامل؛ Techpacker، Delogue، Uphance، Excel/WhatsApp/RoChi/ERPهای ایران، boundary و kill criteria ثبت شد. | Watch؛ نه Pass | ۱۵ مصاحبه + دو pilot پولی با دو brand و دو کارگاه |
+
+فایل‌های audit-friendly هر پرونده در `research/dossiers/` قرار دارند. در register Excel و checklist Markdown، ستون‌های Desk Research، رقابت و ایران، و بازار و مدل برای F-01 تا F-03 تیک خوردند؛ «پژوهش اولیه» و «پروندهٔ کامل» عمداً تیک نخورده‌اند، زیرا مصاحبه/پایلوت هنوز انجام نشده است.
