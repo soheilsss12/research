@@ -291,3 +291,32 @@
 | F-07 | پیمایش ملی ۱۴۰۲/موبایل | context distribution تازه‌تر و روش‌دار | share ژانر فشن، retention، payer و moderation |
 
 **نتیجه:** هیچ status تغییر نکرده است. شواهد جدید بعضاً thesis را محدودتر کرده‌اند؛ هیچ‌کدام جای مصاحبهٔ artifact-based، مشاهدهٔ workflow یا pilot پرداختی را نمی‌گیرند.
+
+---
+
+## گزارش جامع بازار — نسخهٔ ۱٫۲ / دفتر evidence-first اندازهٔ بازار، قیمت و گیت پژوهش اولیه
+
+این batch، مدل‌های **TAM/SAM/SOM، قیمت‌گذاری و داده‌های لازم برای محاسبه** را برای همهٔ F-01 تا F-07 در سطح source/input بازبینی کرد. قاعدهٔ عملیاتی بدون استثنا: `شمارندهٔ buyer یا transaction واجد شرایط × قیمت/ARPA خالص سالانهٔ محلی و قابل‌ردیابی`. اگر هر ورودی موجود نباشد، خروجی پولی **«محاسبه‌نشده / N/A — primary evidence required»** است؛ این وضعیت با proxy، conversion ارزی یا سناریوی دلخواه پر نمی‌شود.
+
+| پرونده | مدل پولی درست | شاهد جدید/مجاز | وضعیت عددی امروز | گیت تعیین‌کننده |
+|---|---|---|---|---|
+| F-01 | account گردش نمونه × ARPA | Launchmetrics از €780/mo؛ فقط anchor خارجی [F01-S18] | محاسبه‌نشده | account map، sample flow و ARPA ایران |
+| F-02 | پروژهٔ costume × fee | SyncOnSet Lite: $250/4wk؛ فقط خارجی [F02-S13] | محاسبه‌نشده | project/costume count، complexity و fee محلی |
+| F-03 | brand workspace × seat/workspace ARPA | Techpacker $35/$95/$125؛ فقط خارجی [F03-S18] | محاسبه‌نشده | brand/style/workshop map و WTP |
+| F-04 | معاملهٔ واجد × need × fee verdict | LegitApp $3/$4/$10؛ فقط خارجی [F04-S13] | محاسبه‌نشده | معامله/تقلب/coverage و fee test ایران |
+| F-05 | chain/franchise × per-store/user fee | نمونهٔ ۲۰+ شعبه denominator نیست | محاسبه‌نشده / آرشیوی | reversal + cohort map، failure و buyer |
+| F-06 | collection واجد × annual CMS fee | Axiell £5,500/year؛ فقط خارجی [F06-S10] | محاسبه‌نشده / آرشیوی | account qualification، procurement و migration cost |
+| F-07 | gamers × genre fit × payer × spend | ~۳۱٫۱M gamer context و ~۵۲۰B تومان proxy مایکت | محاسبه‌نشده / Pause | reversal + genre fit، payer، retention، CAC |
+
+### دو محاسبهٔ محدود F-07
+
+- `۹۰٬۶۰۸٬۷۰۷ × ۳۴٫۳٪ = ۳۱٬۰۷۸٬۷۸۷` (حدود ۳۱٫۱ میلیون) فقط **context بازیکن دیجیتال** بر مبنای جمعیت WHO ۲۰۲۳ و سهم survey است [F07-S13][F07-S15]. تعریف survey و نبود سهم ژانر/پرداخت، استفادهٔ آن به‌عنوان TAM را ممنوع می‌کند.
+- `۵٬۰۰۰٬۰۰۰ خرید × ۱۰۴٬۰۰۰ تومان = ۵۲۰٬۰۰۰٬۰۰۰٬۰۰۰ تومان` فقط ارزش تراکنش impliedِ گزارش‌شدهٔ بازی در **مایکت** در ۱۴۰۲ است [F07-S14]. این رقم بازار ملی، درآمد خالص developer، سهم فشن‌گیم یا forecast نیست.
+
+### خروجی‌های تکمیلی و وضعیت اجرای واقعی
+
+- workbook شفاف شواهد/فرمول‌ها: `reports/portfolio_TAM_SAM_SOM_evidence_register_1405.xlsx`؛
+- workbook اصلی register با sheet پیوند و وضعیت ۱٫۲ به‌روزرسانی شد: `reports/fashion_research_portfolio_register_1405.xlsx`؛
+- پروتکل قابل‌اجرا برای screener، quota، interview، artifact request، WTP و analysis: `research/fieldwork/primary_research_protocol_1405.md` و `reports/primary_research_protocol_1405.docx`.
+
+این‌ها **instrument/design** هستند؛ هیچ primary research، survey یا pilot انجام‌شده ادعا نشده است. وضعیت تصمیم F-01 تا F-07 بدون تغییر است.

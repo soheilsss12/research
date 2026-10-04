@@ -154,6 +154,16 @@ Tech pack یک «فایل طراحی» صرف نیست؛ در عمل specificati
 
 ---
 
+### ۹-۲. TAM/SAM/SOM و benchmark قیمتِ category
+
+مدل درست به‌جای سهمی از فروش پوشاک:
+
+`TAM نظری سالانه = N(brand workspace دارای توسعهٔ محصول ساختاریافته) × seat/workspace ARPA`
+`SAM نظریِ سالانه = N(برندهای multi-style، multi-workshop و دارای approver رسمی) × نرخ پذیرش × ARPA اعتبارسنجی‌شده`
+`SOM سال اول = paid pilotهای تبدیل‌شده در ظرفیت onboarding × ARPA اعتبارسنجی‌شده`.
+
+شرط لازم برای واردکردن عدد: account map، تعداد style/season، factory collaboration، درد version drift و budget owner. Techpacker در صفحهٔ رسمی خود، ۳۵، ۹۵ و ۱۲۵ دلار به‌ازای هر کاربر در ماه با پرداخت سالانه را برای tierهای tech-pack/PLM اعلام می‌کند و BOM، version، export و مراحل تولید را تفکیک می‌کند. [F03-S18] **F:** price architecture خارجی و مرز tierهای category public است. **I:** price test ایران باید بر هزینهٔ revision/sample error بنا شود، نه FX conversion. **L:** vendor pricing و onboarding خارجی، اندازهٔ segment ایران، خریدپذیری یا feature-gap محلی را اثبات نمی‌کند.
+
 ## ۱۰. امکان‌سنجی اجرایی، حقوقی و عملیاتی (Operational, Legal & Commercial Feasibility)
 ### MVP فقط برای گیت validation
 
@@ -256,6 +266,8 @@ CAD، 3D fitting، pattern making، auto-generation با AI، sourcing marketpla
 
 | F03-S17 | C (vendor/product page) | آرمان تدبیر پوشاک — کنترل تولید، ۲۹ ژانویه ۲۰۲۴، بازیابی ۱۲ مهر ۱۴۰۵ | ادعای زمان‌بندی/QC/order/inventory/BOM در تولید پوشاک؛ substitute downstream، نه اثبات adoption یا gap tech-pack. | https://gctco.ir/arman-tadbir-pooshak/ |
 
+| F03-S18 | C (vendor pricing) | Techpacker — Pricing، بازیابی ۱۲ مهر ۱۴۰۵ | ۳۵/۹۵/۱۲۵ دلار per-user/month با annual billing و tierهای tech-pack/PLM؛ benchmark خارجی، نه ARPA ایران. | https://techpacker.com/pricing/ |
+
 ### پیوست ب. تغییرنگار
 
 | نسخه | تاریخ | تغییر |
@@ -264,3 +276,4 @@ CAD، 3D fitting، pattern making، auto-generation با AI، sourcing marketpla
 | ۲٫۱ | ۱۲ مهر ۱۴۰۵ | بازبینی واقعی منابع Techpacker/Uphance، مرز product category و ریسک PLM/ERP overlap افزوده شد؛ Watch و نبود primary evidence حفظ شد. |
 | ۲٫۲ | ۱۲ مهر ۱۴۰۵ | شواهد محلی قابل راستی‌آزمایی به ledger و تحلیل افزوده شد؛ limitations، status و نبود primary research صریحاً حفظ شد. |
 | ۲٫۳ | ۱۲ مهر ۱۴۰۵ | deep desk-research با یک منبع محلی/رسمی تازه، implication، limitation و عدم تبدیل آن به evidence اولیه تکمیل شد. |
+| ۲٫۴ | ۱۲ مهر ۱۴۰۵ | مدل TAM/SAM/SOM، price anchor خارجی یا proxy عددی با مرز انتقال‌ناپذیری و منع forecast بی‌پایه تکمیل شد. |

@@ -112,6 +112,14 @@ subscription B2B بر مبنای شعبه/کاربر فعال، onboarding مح�
 
 ---
 
+### TAM/SAM/SOM مشروط به reversal
+
+`TAM نظری سالانه = N(زنجیره/franchise پوشاک دارای شعبه و campaign cadence) × fee سالانهٔ store/user`
+`SAM نظری سالانه = N(TAM با ۱۵+ شعبه، HQ/region manager، درد visual-compliance و امکان standalone pilot) × نرخ پذیرش × fee سالانهٔ store/user`
+`SOM سال اول = accountهای paid-pilot که بدون عملیات میدانی به subscription تبدیل می‌شوند × ARPA اعتبارسنجی‌شده`.
+
+وجود یک نمونهٔ ۲۰+ شعبه، فقط **existence proof** است و denominator نیست. تا زمانی که account map و evidence failure mode اختصاصی VM، ابزار فعلی، buyer و fee مستقل ساخته نشود، هیچ TAM/SAM/SOM یا price per-store نباید تولید شود. این منع محاسبه، بخشی از تصمیم آرشیوی است؛ نه خلأیی که با سناریوی دلخواه پر شود.
+
 ## ۱۰. امکان‌سنجی اجرایی، حقوقی و عملیاتی (Operational, Legal & Commercial Feasibility)
 حتی در صورت بازگشایی، مدل باید software-only بماند: راه‌اندازی با guideline و role mapping محدود، capture عکس در موبایل، review غیرهم‌زمان مدیر منطقه و export ساده؛ نه تیم نصب ویترین، بازدید اجباری یا مشاورهٔ عملیاتی دائمی. نیاز به integration عمیق با POS/ERP نباید پیش‌شرط pilot باشد؛ زیرا هم cycle فروش را طولانی و هم رقابت با incumbentها را شدیدتر می‌کند.
 
@@ -192,3 +200,4 @@ subscription B2B بر مبنای شعبه/کاربر فعال، onboarding مح�
 | ۲٫۰ | ۱۲ مهر ۱۴۰۵ | عنوان‌ها و hierarchy بدون حذف body یا evidence پیشین، به قالب استاندارد گزارش تحقیقات بازار تبدیل شد؛ این اقدام به معنی انجام پژوهش اولیه نیست. |
 | ۲٫۱ | ۱۲ مهر ۱۴۰۵ | بازبینی واقعی workflow جهانی YOOBIC، دلیل overlap با substituteهای محلی و شرط محدود reversal را روشن‌تر کرد؛ رد/آرشیوی پابرجاست. |
 | ۲٫۲ | ۱۲ مهر ۱۴۰۵ | deep desk-research با یک منبع محلی/رسمی تازه، implication، limitation و عدم تبدیل آن به evidence اولیه تکمیل شد. |
+| ۲٫۳ | ۱۲ مهر ۱۴۰۵ | مدل TAM/SAM/SOM، price anchor خارجی یا proxy عددی با مرز انتقال‌ناپذیری و منع forecast بی‌پایه تکمیل شد. |

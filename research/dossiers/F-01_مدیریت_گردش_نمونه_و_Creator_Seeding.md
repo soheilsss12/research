@@ -250,6 +250,16 @@ Launchmetrics، طبق اعلام خود شرکت در ۲۰۲۶، با بیش ا
 
 ---
 
+### ۹-۴. TAM/SAM/SOM؛ مدل درست و وضعیت عددی
+
+واحد بازار، **account سازمانیِ دارای گردش نمونهٔ تکرارشونده** است، نه ارزش کل خرید آنلاین پوشاک یا تعداد influencer. مدل قابل audit چنین است:
+
+`TAM نظریِ سالانه = N(برند/آژانس دارای sample-loan قابل‌ردیابی) × ARPA قابل‌پرداخت`
+`SAM نظریِ سالانه = N(account واجدِ workflow/owner/standalone fit) × نرخ پذیرش × ARPA اعتبارسنجی‌شده`
+`SOM سال اول = تعداد accountهای paid-pilotِ تبدیل‌شده در ظرفیت واقعی فروش/onboarding × ARPA اعتبارسنجی‌شده`.
+
+هیچ denominator عمومی برای `N`، تعداد گردش، نرخ تبدیل یا ARPA ایران یافت نشده است؛ بنابراین هر عدد ریالی TAM/SAM/SOM در این مرحله ساختگی خواهد بود. قیمت رسمی Launchmetrics از ۷۸۰ یورو در ماه شروع می‌شود و Sample Management را در راهکار خود می‌آورد. [F01-S18] **F:** یک anchor خارجی برای enterprise/category pricing وجود دارد. **I:** این عدد فقط نشان می‌دهد category جهانی subscription دارد؛ تبدیل ارز، سطح feature، حجم و توان پرداخت ایران مجاز نیست. **L:** vendor price و package ترکیبی PR/metrics است، نه قیمت local sample-custody یا evidence WTP.
+
 ## ۱۰. امکان‌سنجی اجرایی، حقوقی و عملیاتی (Operational, Legal & Commercial Feasibility)
 
 ### ۱۰-۱. مرز عملیاتی و non-goals
@@ -378,6 +388,8 @@ Instagram و پیام‌رسان‌ها کانال عملیاتی محتمل‌�
 
 | F01-S17 | A (مرجع رسمی تجارت الکترونیکی) | اینماد — FAQ و اطلاعیهٔ الزام شناسهٔ کالا برای پوشاک/منسوجات، بازیابی ۱۲ مهر ۱۴۰۵ | social-commerce و الزام شناسه برای عرضهٔ آنلاین پوشاک؛ مرز regulatory برای فروش، نه evidence گردش نمونه یا TAM. | https://www.enamad.ir/Faq ; https://www.enamad.ir/News/NewsShow?Newsid=68 |
 
+| F01-S18 | C (vendor pricing) | Launchmetrics — Pricing & Solutions، بازیابی ۱۲ مهر ۱۴۰۵ | Starter از ۷۸۰ یورو/ماه و Sample Management در راهکار؛ anchor خارجی، نه تبدیل‌پذیر به قیمت یا TAM ایران. | https://www.launchmetrics.com/launchmetrics-pricing-solutions |
+
 ### پیوست ب. تغییرنگار
 
 | نسخه | تاریخ | تغییر |
@@ -387,3 +399,4 @@ Instagram و پیام‌رسان‌ها کانال عملیاتی محتمل‌�
 | ۲٫۱ | ۱۲ مهر ۱۴۰۵ | desk-research واقعی تکمیلی: workflow رسمی Launchmetrics، substituteهای رسمی ایران، ریسک data/consent و instrument پژوهش اولیه افزوده شد؛ وضعیت فعال و نبود primary evidence تغییری نکرد. |
 | ۲٫۲ | ۱۲ مهر ۱۴۰۵ | شواهد محلی قابل راستی‌آزمایی به ledger و تحلیل افزوده شد؛ limitations، status و نبود primary research صریحاً حفظ شد. |
 | ۲٫۳ | ۱۲ مهر ۱۴۰۵ | deep desk-research با یک منبع محلی/رسمی تازه، implication، limitation و عدم تبدیل آن به evidence اولیه تکمیل شد. |
+| ۲٫۴ | ۱۲ مهر ۱۴۰۵ | مدل TAM/SAM/SOM، price anchor خارجی یا proxy عددی با مرز انتقال‌ناپذیری و منع forecast بی‌پایه تکمیل شد. |
