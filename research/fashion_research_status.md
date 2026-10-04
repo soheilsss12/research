@@ -237,3 +237,11 @@
 - وضعیت‌ها بدون تغییر: F-01 و F-02 فعال برای اعتبارسنجی؛ F-03 و F-04 Watch؛ F-05 و F-06 رد/آرشیوی؛ F-07 Pause به درخواست کاربر.
 
 گام بعدی پژوهش، پروندهٔ جدید نیست: بازبینی محتوایی ساختاری F-02 تا F-07 بر مبنای همان ۱۴ فصل و سپس ادامهٔ اعتبارسنجی F-01 است.
+
+---
+
+## گزارش جامع بازار — نسخهٔ ۰٫۸ / بازبینی واقعی desk-research F-01 و F-02
+
+- **F-01:** product guide رسمی Launchmetrics، state model گردش نمونه، substituteهای رسمی دیما/نشانت/تگرو، محدودیت data/consent و ریسک وابستگی به کانال مجدداً بررسی و در dossier، master و evidence ledger ثبت شد. این شواهد category و substitute را تقویت می‌کند، اما حجم حرکت نمونه، WTP و market size ایران را اثبات نمی‌کند.
+- **F-02:** اسناد رسمی SyncOnSet، Dramatify و Ready4Set برای تفاوت costume-first، integrated suite و web-first بررسی شد؛ signal عرضهٔ ایران از sizing جدا شد و گیت privacy/consent برای تصویر، اندازه و allergy بازیگر اضافه شد. هیچ عددی برای TAM یا budget ایران جعل نشد.
+- هر دو پرونده همچنان desk-research هستند: F-01 و F-02 **فعال برای اعتبارسنجی، نه Pass**. مصاحبهٔ artifact-based و pilot پولی پروژه‌ای/واقعی، مرحلهٔ اجباری بعدی‌اند.

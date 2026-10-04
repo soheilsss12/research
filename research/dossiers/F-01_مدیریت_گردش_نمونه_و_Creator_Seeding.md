@@ -75,6 +75,10 @@
 
 هیچ مصاحبه، survey، pilot، دادهٔ تراکنشی، sample frame یا observation میدانی در ایران در این مرحله انجام نشده است. بنابراین تعداد گردش، هزینهٔ گم‌شدن، مدت پیگیری، willingness-to-pay، ARPA، نرخ پذیرش و وجود رقیب داخلیِ غیرعمومی **اثبات نشده‌اند**. صفحات عمومی vendor نیز جای مشاهدهٔ رفتار مشتری یا market size مستقل را نمی‌گیرند. این گزارش نباید مبنای تصمیم ساخت، پیش‌بینی فروش یا ادعای white space قطعی باشد.
 
+### ۳-۴. بازبینی مجدد desk-research در ۱۲ مهر ۱۴۰۵
+
+در بازبینی این نسخه، صفحهٔ محصول و راهنمای workflow رسمی Launchmetrics، وب‌سایت‌های رسمی سه substitute ایرانی (دیما سوشال، نشانت و تگرو)، متن منتشرشدهٔ قانون تجارت الکترونیکی در وب‌سایت پلیس فتا و یک منبع دولتی مستقل دربارهٔ تداوم استفاده از شبکه‌های اجتماعی در ایران دوباره بررسی شدند. این batch، وجود زیرساخت campaign/influencer و محدودیت data/consent را تقویت می‌کند؛ اما **هیچ‌یک** حجم حرکت نمونه، هزینهٔ loss، WTP یا تعداد account واجد شرایط در ایران را اندازه‌گیری نمی‌کند. ادعاهای Launchmetrics، دیما، نشانت و تگرو دربارهٔ عملکرد یا مقیاس، vendor claim هستند و فقط در کاربردی که در ledger نوشته شده به‌کار می‌روند. [F01-S09–S15]
+
 ---
 
 ## ۴. نمای کلی بازار و صنعت (Market & Industry Overview)
@@ -97,7 +101,13 @@ Launchmetrics، طبق اعلام خود شرکت در ۲۰۲۶، با بیش ا
 | اتصال نمونه به coverage | sample activation به placement/mention و MIV پیوند داده می‌شود. [F01-S04] | در ایران ابتدا فقط link/asset/right ثبت شود؛ attribution یا MIV نباید وعدهٔ MVP باشد. |
 | مقیاس category | شرکت تا ۵ میلیارد دلار ارزش محصول مدیریت‌شده در هر season و استفاده در ۸۵٪ top fashion shows را اعلام می‌کند. [F01-S01] | عدد به ایران منتقل نمی‌شود؛ فقط نشان می‌دهد workflow در category جهانی حاشیه‌ای نیست. |
 
-### ۴-۳. روندها، محرک‌ها و موانع انتقال‌پذیری
+### ۴-۳. شواهد عملیاتی دقیق‌تر از benchmark جهانی
+
+صفحهٔ آموزشی Launchmetrics، stateهای `loan`، `transfer`، `reservation`، `return to vendor`، `archive`، `write-off` و `gifting` را از هم جدا می‌کند؛ loan بازگشت‌پذیر است و reservation برای جلوگیری از تخصیص هم‌زمان نمونه به shoot یا editor استفاده می‌شود. همچنین delivery memo، موعد بازگشت، اسکن موبایلی barcode و گزارش efficiency را توضیح می‌دهد. [F01-S09]
+
+**F با درجهٔ C:** این جزئیات، شواهد مشخصی از «مسئلهٔ record و state-transition» در یک محصول بین‌المللی‌اند. **محدودیت:** اعداد اعلامی همان شرکت دربارهٔ کاهش loss، زمان و ارزش محصول مدیریت‌شده، methodology عمومی قابل audit ندارند؛ بنابراین نه برای size ایران و نه برای forecast مالی استفاده نمی‌شوند. صفحهٔ رسمی محصول در سال ۲۰۲۶ ادعای ۱٬۷۰۰+ برند در ۱۰۰+ کشور، $5bn ارزش محصول مدیریت‌شده در هر season و تا ۳۵ ساعت صرفه‌جویی manual work در هفته را مطرح می‌کند؛ همهٔ این‌ها فقط vendor claim هستند. [F01-S10]
+
+### ۴-۴. روندها، محرک‌ها و موانع انتقال‌پذیری
 
 **I:** digitisation catalog، نیاز به رزرو و traceability، و اتصال حضور رسانه‌ای به asset record، محرک‌های category جهانی‌اند. در مقابل، انتقال مستقیم suite جهانی به ایران با محدودیت زبان، pricing، integration، حجم واقعی accountها و شیوهٔ کار آژانس‌ها مواجه است. clone کامل Launchmetrics thesis این پرونده نیست؛ فقط یک wedge محدود می‌تواند بررسی شود.
 
@@ -191,7 +201,18 @@ Launchmetrics، طبق اعلام خود شرکت در ۲۰۲۶، با بیش ا
 | انبار/حسابداری پوشاک | نرم‌افزارهای پوشاک رنگ/سایز/بارکد را مدیریت می‌کنند. [F01-S08] | کالا، فروش و stock | loan چرخهٔ PR، creator activation و return workflow را هدف نگرفته‌اند. |
 | Launchmetrics خارجی | Samples + PR/coverage suite | workflow کامل enterprise | local access، قیمت، زبان، integration و تناسب با حجم ایران نامعلوم. |
 
-### ۸-۲. موضع‌یابی، موانع و counter-thesis
+### ۸-۲. تأیید desk-research برای substituteهای ایرانی
+
+| substitute | آنچه منبع رسمی صریحاً عرضه می‌کند | دلالت و مرز برای F-01 |
+|---|---|---|
+| دیما سوشال | یافتن/انتخاب صفحه یا influencer، سفارش تبلیغ، ارسال لینک اجرا برای تأیید سفارش‌دهنده، پرداخت پس از تأیید و گزارش کمپین. [F01-S11] | جانشین قوی برای sourcing، campaign workflow، تأیید انتشار و پرداخت؛ در صفحهٔ بررسی‌شده، record چرخهٔ امانت یک لباس، بازگشت/condition یا حق استفاده از asset ذکر نشده است. |
+| نشانت | راه‌اندازی کمپین، جست‌وجوی influencer، network، سناریو و گزارش مدیریتی/مالی. [F01-S12] | جایگزین campaign-management و discovery است؛ نبود feature در صفحهٔ عمومی دلیل نبود workflow داخلی یا managed service نیست. |
+| تگرو | معرفی influencer متناسب با برند و تحلیل/بررسی اثربخشی کمپین؛ case study منتشرشده نیز محتوا، impression و click را گزارش می‌کند. [F01-S13] | جانشین برای selection/reporting است. این evidence، market-size یا کیفیت attribution را اثبات نمی‌کند و نه وجود/عدم وجود sample custody را. |
+| Excel/پیام‌رسان/آژانس | روش فعلی محتمل؛ در منابع عمومی feature-by-feature قابل audit نیست. | محتمل‌ترین competitor است و باید در مصاحبه با آخرین سه گردش واقعی اثبات یا رد شود. |
+
+**نتیجهٔ یافته:** desk-research اکنون وجود substituteهای جدی در لایهٔ campaign را با منابع رسمی تأیید می‌کند؛ اما هیچ منبع بررسی‌شده، تمایز و پرداخت‌پذیری لایهٔ custody نمونه را تأیید نکرده است. این شکاف، H باقی می‌ماند.
+
+### ۸-۳. موضع‌یابی، موانع و counter-thesis
 
 **I:** موضع قابل بررسی فقط یک record تخصصی برای sample circulation است؛ این تمایز هنوز اثبات نشده است. مهم‌ترین counter-thesis این است که آژانس‌ها مسئله را با نیروی انسانی حل می‌کنند و حجم گردش اکثر accountها آن‌قدر کم است که Excel/WhatsApp کفایت دارد. همچنین ابزار داخلیِ غیرعمومی می‌تواند رقابت پنهان باشد. بنابراین «عدم مشاهدهٔ صفحهٔ محصول» به white space تبدیل نمی‌شود.
 
@@ -235,7 +256,15 @@ Launchmetrics، طبق اعلام خود شرکت در ۲۰۲۶، با بیش ا
 
 مفهوم باید platform-first باقی بماند. تأمین اینفلوئنسر، انتخاب خودکار creator، پرداخت یا escrow، حمل/دریافت فیزیکی/انبارداری/ارزیابی خسارت در میدان، attribution قطعی فروش، POS، PLM، DAM عمومی و social listening کامل از دامنهٔ MVP خارج‌اند.
 
-### ۱۰-۲. ریسک‌های کلیدی و پاسخ پژوهشی
+### ۱۰-۲. حریم داده، حق asset و محدودیت کانال
+
+نام/راه ارتباطی دریافت‌کننده، نام کاربری شبکهٔ اجتماعی، تصویر condition و permission برای reuse دارایی، دادهٔ عملیاتی حساسی هستند. متن منتشرشدهٔ قانون تجارت الکترونیکی، برای ذخیره/پردازش/توزیع برخی داده‌های شخصی حساس، رضایت صریح را لازم می‌داند و در حالت پردازش با رضایت، شفاف‌بودن هدف و امکان دسترسی/اصلاح/درخواست حذف را پیش‌بینی می‌کند. [F01-S14] **I:** هرچند انطباق دقیق باید با وکیل ایرانی بررسی شود، product نباید بر رضایت شفاهی، screenshot پراکنده یا دسترسی نامحدود agency تکیه کند.
+
+حداقل کنترل پیشنهادی: نقش و permission جدا برای brand/agency/recipient؛ ثبت زمان، scope و expiry اجازهٔ استفاده از asset؛ حداقل‌سازی داده؛ export/delete workflow؛ و audit trail تغییرات. محصول نباید تصویر شخصی یا اطلاعات حساس غیرلازم را برای «اثبات تحویل» جمع کند.
+
+Instagram و پیام‌رسان‌ها کانال عملیاتی محتمل‌اند، اما ریسک platform dependency دارند. یک گزارش دولتی بریتانیا در ۲۰۲۵ با ارجاع به DataReportal و ISPA، تداوم استفاده از پلتفرم‌های فیلترشده و وابستگی به VPN را گزارش می‌کند؛ ارقام آن proxy اکوسیستم است، نه اندازهٔ بازار F-01. [F01-S15] بنابراین notification و recipient-confirmation نباید به یک API یا قابلیت دسترسی خاص Instagram وابسته باشد.
+
+### ۱۰-۳. ریسک‌های کلیدی و پاسخ پژوهشی
 
 | ریسک | اثر | کاهش/آزمون |
 |---|---|---|
@@ -299,7 +328,17 @@ Launchmetrics، طبق اعلام خود شرکت در ۲۰۲۶، با بیش ا
 
 **مالک تصمیم:** owner پژوهش پرونده با تأیید تصمیم‌گیر محصول؛ زمان‌بندی و سقف هزینه پیش از آغاز fieldwork تعیین می‌شود.
 
-### ۱۳-۳. hard kill
+### ۱۳-۳. instrument، نمونه‌گیری و کنترل کیفیت پژوهش اولیه
+
+**frame:** فهرست اولیه از برند/agency/showroom باید جدا از مشتری بالقوهٔ معرفی‌شده توسط تیم محصول ساخته شود؛ حداقل نیمی از مصاحبه‌ها از مسیر مستقل (industry referral، نمایشگاه/رویداد، جست‌وجوی عمومی یا cold outreach) انتخاب شوند تا selection bias کاهش یابد. هر participant با نقش، segment، حجم ادعاشده و روش دسترسی در ledger محرمانه ثبت می‌شود.
+
+**artifact protocol:** برای هر مصاحبه، پژوهشگر فقط با اجازهٔ participant سه نمونهٔ آخر را روی timeline بازسازی می‌کند: کد/تصویر قطعه، requester، رزرو، handoff، channel پیگیری، due date، بازگشت، condition، محتوای منتشرشده و permission. نام/شماره/تصویر غیرلازم وارد dossier نمی‌شود. پاسخ کلی «همیشه مشکل داریم» بدون artifact به‌عنوان evidence severity پذیرفته نیست.
+
+**price test:** پس از کشف workflow، نه قبل از آن، سه مدل قابل مقایسه آزموده می‌شود: workspace ماهانه، fee به‌ازای active sample و paid pilot با سقف حرکت. پاسخ‌دهنده باید budget owner، جایگزین فعلی و نتیجهٔ واقعی را مشخص کند؛ WTP فقط با commit پولی/قراردادی یا رفتار معادل تأیید می‌شود.
+
+**معیار کیفیت:** transcription/notes توسط پژوهشگر دوم روی نمونه‌ای از مصاحبه‌ها بازبینی می‌شود؛ Fact، Interpretation و Hypothesis جداگانه کدگذاری می‌شوند؛ نتیجهٔ segment تنها در صورت مشاهدهٔ pattern در بیش از یک account مستقل نوشته می‌شود.
+
+### ۱۳-۴. hard kill
 
 مسیر متوقف می‌شود اگر: (۱) درد version/status/return تکرارشونده و هزینه‌دار دیده نشود؛ (۲) هیچ دو customer برای pilot پولی commit نکنند؛ (۳) دریافت‌کننده/agency flow سادهٔ تأیید را استفاده نکند؛ یا (۴) اکثر accountها حجمی داشته باشند که Excel/WhatsApp کفایت کند.
 
@@ -319,6 +358,13 @@ Launchmetrics، طبق اعلام خود شرکت در ۲۰۲۶، با بیش ا
 | F01-S06 | C (vendor) | نشانت، بازیابی ۱۲ مهر ۱۴۰۵ | شبکه، کمپین و گزارش‌های influencer marketing. | https://neshanet.com/ |
 | F01-S07 | C (vendor) | تگرو، بازیابی ۱۲ مهر ۱۴۰۵ | campaign/influencer substitute. | https://tagrow.net/ |
 | F01-S08 | C (vendor) | محک — نرم‌افزار حسابداری پوشاک، بازیابی ۱۲ مهر ۱۴۰۵ | وجود inventory رنگ/سایز/بارکد؛ عدم هم‌ارزی با sample PR. | https://www.mahaksoft.com/garment-accounting-software/ |
+| F01-S09 | C (vendor, product guide) | Launchmetrics — *Fashion Sample Tracking Software*، ویرایش ۹ آوریل ۲۰۲۵، بازیابی ۱۲ مهر ۱۴۰۵ | stateهای loan/reservation/gifting، delivery memo، موعد بازگشت، barcode و workflow؛ ارقام عملکرد فقط vendor claim. | https://www.launchmetrics.com/resources/blog/sample-tracking-software |
+| F01-S10 | C (vendor claim) | Launchmetrics — *Sample Management Software*، بازیابی ۱۲ مهر ۱۴۰۵ | ادعاهای scale و benefit محصول؛ فقط category/feature proof، نه sizing ایران. | https://www.launchmetrics.com/software/samples-management |
+| F01-S11 | C (vendor) | دیما — *راه‌اندازی پلتفرم اینفلوئنسر مارکتینگ دیما سوشال*، بازیابی ۱۲ مهر ۱۴۰۵ | discovery/order/approval/payment/reporting کمپین؛ substitute لایهٔ campaign. | https://deema.agency/deema-social-platform/ |
+| F01-S12 | C (vendor) | نشانت — پلتفرم اینفلوئنسر مارکتینگ، بازیابی ۱۲ مهر ۱۴۰۵ | campaign، network، جست‌وجوی influencer و گزارش مدیریتی/مالی؛ substitute لایهٔ campaign. | https://neshanet.com/ |
+| F01-S13 | C (vendor + case study) | تگرو — پلتفرم جامع و case study فلایتیو، بازیابی ۱۲ مهر ۱۴۰۵ | discovery و سنجش campaign؛ اعداد case study vendor-published و خارج از sizing هستند. | https://tagrow.net/ ; https://tagrow.net/blog/case-study/ |
+| F01-S14 | A (متن قانون منتشرشده توسط مرجع رسمی) | پلیس فتا — قانون تجارت الکترونیکی، مواد ۵۸ و ۵۹، بازیابی ۱۲ مهر ۱۴۰۵ | رضایت/هدف روشن/دسترسی و اصلاح یا حذف داده‌پیام شخصی؛ نیازمند تفسیر حقوقی اختصاصی پیش از اجرا. | https://www.cyberpolice.ir/page/2581 |
+| F01-S15 | B (منبع دولتی ثانویه) | GOV.UK — *Country policy and information note: social media, surveillance and sur place activities, Iran*، آوریل ۲۰۲۵، بازیابی ۱۲ مهر ۱۴۰۵ | تداوم استفاده از Instagram/WhatsApp/Telegram با وجود محدودیت؛ فقط proxy ریسک کانال، نه TAM. | https://www.gov.uk/government/publications/iran-country-policy-and-information-notes/country-policy-and-information-note-social-media-surveillance-and-sur-place-activities-iran-april-2025-accessible |
 
 ### پیوست ب. تغییرنگار
 
@@ -326,3 +372,4 @@ Launchmetrics، طبق اعلام خود شرکت در ۲۰۲۶، با بیش ا
 |---|---|---|
 | ۱٫۰ | پیش از ۱۲ مهر ۱۴۰۵ | پروندهٔ desk-research اولیه ثبت شد. |
 | ۲٫۰ | ۱۲ مهر ۱۴۰۵ | ساختار پرونده بدون حذف شواهد، به hierarchy استاندارد گزارش تحقیقات بازار تبدیل شد؛ primary research همچنان انجام نشده است. |
+| ۲٫۱ | ۱۲ مهر ۱۴۰۵ | desk-research واقعی تکمیلی: workflow رسمی Launchmetrics، substituteهای رسمی ایران، ریسک data/consent و instrument پژوهش اولیه افزوده شد؛ وضعیت فعال و نبود primary evidence تغییری نکرد. |
