@@ -7,8 +7,12 @@
 
 ---
 
-## ۱. کارت تصمیم
+---
 
+## ۱. خلاصهٔ مدیریتی (Executive Summary)
+این پرونده در سطح desk-research است. نتیجهٔ اجرایی و وضعیت تصمیم در فصل ۱۲ آمده است؛ هیچ یافتهٔ primary یا اندازهٔ بازارِ تأییدنشده به‌عنوان واقعیت ارائه نمی‌شود.
+
+## ۲. مقدمه، زمینهٔ کسب‌وکار و اهداف پژوهش (Introduction, Business Context & Objectives)
 ### تعریف اولیهٔ مسیر
 لایهٔ mobile-first برای تبدیل دستورالعمل Visual Merchandising ستاد به اجرای قابل‌مشاهده در شعب: campaign brief، visual guideline، task نقش‌محور، checklist، عکس قبل/بعد، annotation، approval/rework، escalation و dashboard انطباق.
 
@@ -24,21 +28,10 @@
 
 ---
 
-## ۲. مسئله و workflow عملیاتی
+## ۳. روش‌شناسی پژوهش و محدودیت‌ها (Research Methodology & Limitations)
+این پرونده بر desk-research، منابع عمومی و تحلیل workflow/جایگزین‌ها استوار است. مصاحبه، پیمایش، پایلوت و دادهٔ تراکنشی محلی تا این نسخه انجام نشده‌اند مگر آن‌که صراحتاً در متن خلاف آن ثبت شده باشد. صفحات vendor برای اثبات category یا قابلیت محصول به‌کار می‌روند، نه به‌تنهایی برای اثبات اندازهٔ بازار ایران، پرداخت‌پذیری یا نبود رقیب. همهٔ شکاف‌ها باید در گیت فصل ۱۳ آزموده شوند.
 
-### Job-to-be-done
-«ستاد می‌خواهد یک ویترین/مانکن/چیدمان کمپین را در شعب متعدد، تا deadline و با استاندارد واحد اجرا کند؛ مدیر منطقه باید از روی شواهد تصویری ببیند چه شعبه‌ای انجام داده، کجا مغایرت دارد و چه کاری نیاز به اصلاح دارد.»
-
-### workflow استاندارد category
-
-`campaign / guideline → segmentation شعب و نقش‌ها → task + checklist → اجرای شعبه → photo evidence → review/annotation → rework یا approval → dashboard/escalation → post-campaign learning`.
-
-برای پوشاک، objectهای اختصاصی ممکن است window display، mannequin look، fixture، color block، folding، signage، launch/drop و availability باشد. این objectها به‌تنهایی platform wedge نیستند؛ باید اثبات شود ابزارهای موجود واقعاً نمی‌توانند workflow و تصمیم‌گیری آن‌ها را پوشش دهند.
-
----
-
-## ۳. benchmark جهانی
-
+## ۴. نمای کلی بازار و صنعت (Market & Industry Overview)
 YOOBIC نمونهٔ روشن Retail Operations Platform است: از HQ، mission و guideline به task/store execution، photo proof، annotation و real-time visibility می‌رسد. [F05-S01] case study Lacoste نیز از guideline و image/task validation استفاده می‌کند؛ اعداد case study را باید vendor-reported دانست. [F05-S02]
 
 YOOBIC برای Longchamp نیز مسیر communication → learning → task → photo validation را بیان می‌کند. [F05-S03] درس معتبر این است که category، صرفاً form collection نیست: adoption کارکنان، context آموزشی، loop بازخورد و مدیریت استثنا بخش محصول‌اند.
@@ -52,8 +45,25 @@ YOOBIC برای Longchamp نیز مسیر communication → learning → task �
 
 ---
 
-## ۴. نقشهٔ جایگزین‌ها و رقابت ایران
+## ۵. اندازه، ساختار و پویایی تقاضای بازار (Market Sizing, Structure & Demand)
+داده‌های اندازه، تقاضا و مدل درآمد که در این desk-research قابل مشاهده بوده‌اند در فصل ۹ ثبت شده‌اند؛ هر رقم یا denominatorِ ناقص، برآورد/فرضیه است و به‌جای رقم قطعی، مسیر جمع‌آوری داده در فصل ۱۳ آمده است.
 
+## ۶. بازار هدف، بخش‌بندی و مشتری (Target Market, Segmentation & Customer)
+تقسیم‌بندی، نقش buyer/user و مرز B2B/B2C فقط در حد شواهد موجود در این پرونده بیان می‌شود. هیچ persona، حجم segment یا WTP بدون دادهٔ اولیه قطعی تلقی نمی‌شود؛ معیار نمونه و نقش‌های مورد نیاز برای تأیید در فصل ۱۳ ثبت شده‌اند.
+
+## ۷. بینش مشتری، نیاز، رفتار خرید و قیمت‌پذیری (Customer Insights, Buying Behaviour & Willingness-to-Pay)
+### Job-to-be-done
+«ستاد می‌خواهد یک ویترین/مانکن/چیدمان کمپین را در شعب متعدد، تا deadline و با استاندارد واحد اجرا کند؛ مدیر منطقه باید از روی شواهد تصویری ببیند چه شعبه‌ای انجام داده، کجا مغایرت دارد و چه کاری نیاز به اصلاح دارد.»
+
+### workflow استاندارد category
+
+`campaign / guideline → segmentation شعب و نقش‌ها → task + checklist → اجرای شعبه → photo evidence → review/annotation → rework یا approval → dashboard/escalation → post-campaign learning`.
+
+برای پوشاک، objectهای اختصاصی ممکن است window display، mannequin look، fixture، color block، folding، signage، launch/drop و availability باشد. این objectها به‌تنهایی platform wedge نیستند؛ باید اثبات شود ابزارهای موجود واقعاً نمی‌توانند workflow و تصمیم‌گیری آن‌ها را پوشش دهند.
+
+---
+
+## ۸. چشم‌انداز رقابتی و جایگزین‌ها (Competitive Landscape & Substitutes)
 ### ۴-۱. substituteهای نزدیک و مستقیم
 
 1. **Cheena / Dinasys:** صفحهٔ رسمی مدیریت چیدمان فروشگاهی، اجرای دستورکار در سطح فروشگاه، ثبت before/after، کنترل تصویری، image recognition و شمارش اقلام را برای رامک توضیح می‌دهد. [F05-S04] این مثال در CPG است، نه اثبات fit برای fashion، اما بلوک کارکردی اصلی را پوشش می‌دهد.
@@ -76,8 +86,7 @@ YOOBIC برای Longchamp نیز مسیر communication → learning → task �
 
 ---
 
-## ۵. مشتری، بازار و اقتصاد
-
+## ۹. ارزیابی مفهوم محصول، مدل کسب‌وکار و قیمت‌گذاری (Product Concept, Business Model & Pricing Assessment)
 ### ICP مفهومی
 زنجیرهٔ پوشاک/franchise با شعبه‌های متعدد، تقویم کمپین فعال، مدیران منطقه‌ای و هزینهٔ محسوس ناشی از اجرای ناهماهنگ. این تعریف هنوز با دادهٔ ایران اعتبارسنجی نشده است.
 
@@ -95,8 +104,7 @@ subscription B2B بر مبنای شعبه/کاربر فعال، onboarding مح�
 
 ---
 
-## ۶. عملیات، ریسک و validation record
-
+## ۱۰. امکان‌سنجی اجرایی، حقوقی و عملیاتی (Operational, Legal & Commercial Feasibility)
 حتی در صورت بازگشایی، مدل باید software-only بماند: راه‌اندازی با guideline و role mapping محدود، capture عکس در موبایل، review غیرهم‌زمان مدیر منطقه و export ساده؛ نه تیم نصب ویترین، بازدید اجباری یا مشاورهٔ عملیاتی دائمی. نیاز به integration عمیق با POS/ERP نباید پیش‌شرط pilot باشد؛ زیرا هم cycle فروش را طولانی و هم رقابت با incumbentها را شدیدتر می‌کند.
 
 | ریسک تعیین‌کننده | اثر | کنترل/شاهد لازم پیش از هر بازگشایی |
@@ -113,8 +121,10 @@ subscription B2B بر مبنای شعبه/کاربر فعال، onboarding مح�
 
 ---
 
-## ۷. چرا مسیر رد شد
+## ۱۱. یافته‌ها، تحلیل و ارزیابی فرصت (Findings, Analysis & Opportunity Assessment)
+**تفکیک تحلیلی:** فصل‌های ۴ تا ۱۰ «یافته‌ها و شواهد موجود» را نگه می‌دارند؛ نتیجه‌گیری فصل ۱۲ تفسیر محافظه‌کارانهٔ آن‌هاست. نبود محصول یا عدد در منابع عمومی، به‌تنهایی evidence سفیدبودن بازار نیست. counter-thesis، ریسک و limitationهای عملیاتی باید بر توصیه مقدم باشند.
 
+## ۱۲. نتیجه‌گیری و توصیهٔ راهبردی (Conclusions & Strategic Recommendation)
 | معیار portfolio | مشاهده | نتیجه |
 |---|---|---|
 | platform-first و غیر بازنام‌گذاری‌شده | تعریف پایه، task/photo/approval/dashboard است. | با ابزارهای موجود هم‌پوشانی زیاد دارد. |
@@ -127,8 +137,7 @@ subscription B2B بر مبنای شعبه/کاربر فعال، onboarding مح�
 
 ---
 
-## ۸. تنها شرط بازگشایی
-
+## ۱۳. برنامهٔ اعتبارسنجی بعدی و گیت تصمیم (Validation Plan & Decision Gate)
 پرونده فقط با شواهد artifact-based از دست‌کم ۸ زنجیرهٔ پوشاک و ۱۵+ شعبه در هر زنجیره قابل بازگشایی است، اگر هم‌زمان همهٔ شروط زیر برقرار باشد:
 
 1. ابزارهای فعلی نتوانند execution عناصر واقعاً fashion-specific (look/mannequin/window/drop) را با approval trail پوشش دهند؛
@@ -140,8 +149,7 @@ subscription B2B بر مبنای شعبه/کاربر فعال، onboarding مح�
 
 ---
 
-## ۹. evidence ledger
-
+## ۱۴. پیوست‌ها (Appendices)
 | کد | رتبه | منبع | نکتهٔ استفاده‌شده | پیوند |
 |---|---|---|---|---|
 | F05-S01 | C / vendor | YOOBIC Visual Merchandising، بازیابی ۱۲ مهر ۱۴۰۵ | missions، guidelines، task، photo proof و HQ visibility. | https://yoobic.com/use-cases/visual-merchandising/ |
@@ -152,3 +160,9 @@ subscription B2B بر مبنای شعبه/کاربر فعال، onboarding مح�
 | F05-S06 | C / product page | Vision MIS 20، بازیابی ۱۲ مهر ۱۴۰۵ | product capabilities for merchandising. | https://persian.vision/fa/products/details/vision-mis-20 |
 | F05-S07 | C / vendor | iOrder، بازیابی ۱۲ مهر ۱۴۰۵ | عکس و تأییدیهٔ بازارچینی در فروشگاه. | https://samiansoft.ir/iorder/merchandise-control-of-goods/ |
 | F05-S08 | C / vendor explainer | همکاران سیستم، فروشگاه زنجیره‌ای، بازیابی ۱۲ مهر ۱۴۰۵ | operations covered by chain-store systems. | https://www.systemgroup.net/knowledge-network/all-about-chainstore/ |
+
+### پیوست ب. تغییرنگار
+
+| نسخه | تاریخ | تغییر |
+|---|---|---|
+| ۲٫۰ | ۱۲ مهر ۱۴۰۵ | عنوان‌ها و hierarchy بدون حذف body یا evidence پیشین، به قالب استاندارد گزارش تحقیقات بازار تبدیل شد؛ این اقدام به معنی انجام پژوهش اولیه نیست. |

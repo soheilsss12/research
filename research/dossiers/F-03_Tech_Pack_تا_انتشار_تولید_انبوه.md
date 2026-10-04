@@ -1,15 +1,19 @@
 # F-03 — Tech Pack تا تأیید نمونه و قفل انتشار تولید انبوه
 
-**نوع پرونده:** تحقیق بازارِ desk-research؛ بخشی از desk research قبلاً انجام شده و در این پرونده تجمیع شده است.  
-**بازار:** B2B  
-**تصمیم فعلی:** Watch / فرضیهٔ مشروط؛ **نه Pass و نه توصیهٔ ساخت.**  
-**تاریخ:** ۱۲ مهر ۱۴۰۵ / ۴ اکتبر ۲۰۲۶  
+**نوع پرونده:** تحقیق بازارِ desk-research؛ بخشی از desk research قبلاً انجام شده و در این پرونده تجمیع شده است.
+**بازار:** B2B
+**تصمیم فعلی:** Watch / فرضیهٔ مشروط؛ **نه Pass و نه توصیهٔ ساخت.**
+**تاریخ:** ۱۲ مهر ۱۴۰۵ / ۴ اکتبر ۲۰۲۶
 **سطح اطمینان:** بالا برای category جهانی و substituteهای ایران؛ پایین برای وجود pain قابل پرداخت در ICP ایران.
 
 ---
 
-## ۱. کارت تصمیم
+---
 
+## ۱. خلاصهٔ مدیریتی (Executive Summary)
+این پرونده در سطح desk-research است. نتیجهٔ اجرایی و وضعیت تصمیم در فصل ۱۲ آمده است؛ هیچ یافتهٔ primary یا اندازهٔ بازارِ تأییدنشده به‌عنوان واقعیت ارائه نمی‌شود.
+
+## ۲. مقدمه، زمینهٔ کسب‌وکار و اهداف پژوهش (Introduction, Business Context & Objectives)
 ### تعریف دقیق محصول
 یک لایهٔ بسیار باریک برای برند پوشاکِ چندکارگاهی که یک **record نسخه‌دار از Tech Pack، BOM، عکس/annotation نمونه، fit feedback، approval و نسخهٔ immutable production-release** ایجاد می‌کند و دریافت نسخهٔ درست توسط کارگاه را قابل مشاهده می‌سازد.
 
@@ -31,33 +35,10 @@
 
 ---
 
-## ۲. Tech Pack و نقطهٔ handoff
+## ۳. روش‌شناسی پژوهش و محدودیت‌ها (Research Methodology & Limitations)
+این پرونده بر desk-research، منابع عمومی و تحلیل workflow/جایگزین‌ها استوار است. مصاحبه، پیمایش، پایلوت و دادهٔ تراکنشی محلی تا این نسخه انجام نشده‌اند مگر آن‌که صراحتاً در متن خلاف آن ثبت شده باشد. صفحات vendor برای اثبات category یا قابلیت محصول به‌کار می‌روند، نه به‌تنهایی برای اثبات اندازهٔ بازار ایران، پرداخت‌پذیری یا نبود رقیب. همهٔ شکاف‌ها باید در گیت فصل ۱۳ آزموده شوند.
 
-Tech pack یک «فایل طراحی» صرف نیست؛ در عمل specification/contract فنی میان برند و کارخانه است. اجزای متعارف آن عبارت‌اند از flat، points of measurement، BOM، construction، color/material، size/grade، finishing، packaging و approval log. [F03-S01]
-
-### مرز process
-
-`design concept → technical flat → Tech Pack + BOM → pattern/sample → fit comments → revised sample → pre-production sample → locked bulk-release → production order`.
-
-این پرونده فقط از نقطهٔ **Tech Pack آمادهٔ اشتراک** تا **approved bulk-release** را بررسی می‌کند. الگو‌سازی/CAD قبل از آن و production execution بعد از آن، مسیرهای جدا و قبلاً ردشده‌اند.
-
-### record حداقلی محصول
-
-| جزء | چرا باید نسخه‌دار باشد | کاربر اصلی |
-|---|---|---|
-| Style card و technical flat | مرجع هویت مدل و تغییر طراحی | technical designer / product developer |
-| BOM و material/trims | جلوگیری از نمونه یا هزینه بر اساس خرجکار قدیمی | sourcing / factory liaison |
-| POM/size/grade | تعیین fit و تحمل اندازه | patternmaker / factory |
-| عکس نمونه و annotation | تبدیل feedback مبهم به دستور اجرایی | designer / sample room |
-| sample round | تفکیک proto، fit، PP و production sample | product development |
-| approval/rejection | روشن‌بودن اینکه چه کسی، چه چیزی و در کدام version را تأیید کرده است | manager / founder / factory |
-| bulk-release snapshot | جلوگیری از تغییر silent پس از مجوز تولید | برند و کارگاه |
-| acknowledgement کارخانه | اثبات دریافت نسخهٔ release، نه صرفاً ارسال فایل | factory contact |
-
----
-
-## ۳. category جهانی و شواهد benchmark
-
+## ۴. نمای کلی بازار و صنعت (Market & Industry Overview)
 ### ۳-۱. ابزار سبک: Techpacker
 
 Techpacker، طبق feature page خود، BOM، libraries، PDF/Excel export، real-time collaboration، version control، portal سازنده و stage tracking را ارائه می‌کند؛ edits بین versionها برای سازنده برجسته می‌شود. [F03-S02] یک مقایسهٔ CLO-SET نیز آن را ابزار tech-pack سبک برای خروج از Excel با قیمت منتشرشدهٔ حدود ۴۹ دلار برای هر کاربر در ماه (در زمان بررسی) معرفی می‌کند. [F03-S03]
@@ -82,8 +63,37 @@ Uphance Tech Pack، BOM، materials، approvals و version history را در ی�
 
 ---
 
-## ۴. ایران: ابزارها، جایگزین‌ها و مرز شکاف
+## ۵. اندازه، ساختار و پویایی تقاضای بازار (Market Sizing, Structure & Demand)
+داده‌های اندازه، تقاضا و مدل درآمد که در این desk-research قابل مشاهده بوده‌اند در فصل ۹ ثبت شده‌اند؛ هر رقم یا denominatorِ ناقص، برآورد/فرضیه است و به‌جای رقم قطعی، مسیر جمع‌آوری داده در فصل ۱۳ آمده است.
 
+## ۶. بازار هدف، بخش‌بندی و مشتری (Target Market, Segmentation & Customer)
+تقسیم‌بندی، نقش buyer/user و مرز B2B/B2C فقط در حد شواهد موجود در این پرونده بیان می‌شود. هیچ persona، حجم segment یا WTP بدون دادهٔ اولیه قطعی تلقی نمی‌شود؛ معیار نمونه و نقش‌های مورد نیاز برای تأیید در فصل ۱۳ ثبت شده‌اند.
+
+## ۷. بینش مشتری، نیاز، رفتار خرید و قیمت‌پذیری (Customer Insights, Buying Behaviour & Willingness-to-Pay)
+Tech pack یک «فایل طراحی» صرف نیست؛ در عمل specification/contract فنی میان برند و کارخانه است. اجزای متعارف آن عبارت‌اند از flat، points of measurement، BOM، construction، color/material، size/grade، finishing، packaging و approval log. [F03-S01]
+
+### مرز process
+
+`design concept → technical flat → Tech Pack + BOM → pattern/sample → fit comments → revised sample → pre-production sample → locked bulk-release → production order`.
+
+این پرونده فقط از نقطهٔ **Tech Pack آمادهٔ اشتراک** تا **approved bulk-release** را بررسی می‌کند. الگو‌سازی/CAD قبل از آن و production execution بعد از آن، مسیرهای جدا و قبلاً ردشده‌اند.
+
+### record حداقلی محصول
+
+| جزء | چرا باید نسخه‌دار باشد | کاربر اصلی |
+|---|---|---|
+| Style card و technical flat | مرجع هویت مدل و تغییر طراحی | technical designer / product developer |
+| BOM و material/trims | جلوگیری از نمونه یا هزینه بر اساس خرجکار قدیمی | sourcing / factory liaison |
+| POM/size/grade | تعیین fit و تحمل اندازه | patternmaker / factory |
+| عکس نمونه و annotation | تبدیل feedback مبهم به دستور اجرایی | designer / sample room |
+| sample round | تفکیک proto، fit، PP و production sample | product development |
+| approval/rejection | روشن‌بودن اینکه چه کسی، چه چیزی و در کدام version را تأیید کرده است | manager / founder / factory |
+| bulk-release snapshot | جلوگیری از تغییر silent پس از مجوز تولید | برند و کارگاه |
+| acknowledgement کارخانه | اثبات دریافت نسخهٔ release، نه صرفاً ارسال فایل | factory contact |
+
+---
+
+## ۸. چشم‌انداز رقابتی و جایگزین‌ها (Competitive Landscape & Substitutes)
 ### ۴-۱. شواهد مهارتی/فرآیندی
 
 آموزش Illustrator در طراحی لباس در ایران ارائه می‌شود و Tech Pack در منابع/دوره‌های تخصصی به‌صورت Excel/Illustrator/PDF شناخته شده است. وجود این آموزش‌ها به معنی وجود SaaS نیست، اما نشان می‌دهد userها می‌توانند ابزار اولیه را به‌کار بگیرند. [F03-S07]
@@ -109,8 +119,7 @@ Uphance Tech Pack، BOM، materials، approvals و version history را در ی�
 
 ---
 
-## ۵. ICP، بازار و مدل کسب‌وکار
-
+## ۹. ارزیابی مفهوم محصول، مدل کسب‌وکار و قیمت‌گذاری (Product Concept, Business Model & Pricing Assessment)
 ### ICP فرضی و exclusions
 
 | ICP احتمالی | نشانهٔ qualifying | exclusion |
@@ -137,8 +146,7 @@ Uphance Tech Pack، BOM، materials، approvals و version history را در ی�
 
 ---
 
-## ۶. MVP، وابستگی و ریسک
-
+## ۱۰. امکان‌سنجی اجرایی، حقوقی و عملیاتی (Operational, Legal & Commercial Feasibility)
 ### MVP فقط برای گیت validation
 
 1. style workspace و revision history؛
@@ -167,8 +175,17 @@ CAD، 3D fitting، pattern making، auto-generation با AI، sourcing marketpla
 
 ---
 
-## ۷. برنامهٔ اعتبارسنجی و hard kill
+## ۱۱. یافته‌ها، تحلیل و ارزیابی فرصت (Findings, Analysis & Opportunity Assessment)
+**تفکیک تحلیلی:** فصل‌های ۴ تا ۱۰ «یافته‌ها و شواهد موجود» را نگه می‌دارند؛ نتیجه‌گیری فصل ۱۲ تفسیر محافظه‌کارانهٔ آن‌هاست. نبود محصول یا عدد در منابع عمومی، به‌تنهایی evidence سفیدبودن بازار نیست. counter-thesis، ریسک و limitationهای عملیاتی باید بر توصیه مقدم باشند.
 
+## ۱۲. نتیجه‌گیری و توصیهٔ راهبردی (Conclusions & Strategic Recommendation)
+**F-03 در وضعیت Watch باقی می‌ماند.** category جهانی از ابزار lightweight تا PLM enterprise به‌خوبی اثبات شده، اما full PLM/ERP قبلاً رد شده و substituteهای محلی/دستی واقعی‌اند. تنها thesis قابل‌تحقیق، یک wedge بسیار محدود در مرز sample approval و production release است؛ نه یک نام جدید برای PLM.
+
+گیت این پرونده از market size عمومی عبور نمی‌کند؛ از مشاهدهٔ artifact واقعی و فروش pilot می‌گذرد. تا آن زمان، هیچ ادعایی دربارهٔ gap ایران، willingness-to-pay یا قیمت مناسب معتبر نیست.
+
+---
+
+## ۱۳. برنامهٔ اعتبارسنجی بعدی و گیت تصمیم (Validation Plan & Decision Gate)
 ### مصاحبهٔ artifact-based: حداقل ۱۵ نفر
 
 - ۵ مدیر محصول/technical designer یا founder برند؛
@@ -191,16 +208,7 @@ CAD، 3D fitting، pattern making، auto-generation با AI، sourcing marketpla
 
 ---
 
-## ۸. verdict desk-research
-
-**F-03 در وضعیت Watch باقی می‌ماند.** category جهانی از ابزار lightweight تا PLM enterprise به‌خوبی اثبات شده، اما full PLM/ERP قبلاً رد شده و substituteهای محلی/دستی واقعی‌اند. تنها thesis قابل‌تحقیق، یک wedge بسیار محدود در مرز sample approval و production release است؛ نه یک نام جدید برای PLM.
-
-گیت این پرونده از market size عمومی عبور نمی‌کند؛ از مشاهدهٔ artifact واقعی و فروش pilot می‌گذرد. تا آن زمان، هیچ ادعایی دربارهٔ gap ایران، willingness-to-pay یا قیمت مناسب معتبر نیست.
-
----
-
-## منابع و ledger شواهد
-
+## ۱۴. پیوست‌ها (Appendices)
 | کد | رتبه | منبع | نکتهٔ استفاده‌شده | پیوند |
 |---|---|---|---|---|
 | F03-S01 | C (vendor) | Uphance — Mastering the Tech Pack، بازیابی ۱۲ مهر ۱۴۰۵ | اجزای Tech Pack، approval log و failure modeهای stale BOM/version drift. | https://www.uphance.com/insights/mastering-tech-pack/ |
@@ -215,3 +223,9 @@ CAD، 3D fitting، pattern making، auto-generation با AI، sourcing marketpla
 | F03-S10 | C (vendor) | معین — حسابداری تولیدی پوشاک، بازیابی ۱۲ مهر ۱۴۰۵ | مراحل تولید، مواد، ضایعات و تولید برون‌سپاری. | https://moeinsoft.com/product/garment-production-accounting-software/ |
 | F03-S11 | C (vendor) | هلو — حسابداری مانتو و پوشاک، بازیابی ۱۲ مهر ۱۴۰۵ | پنل تولید، مواد و عملیات برش/دوخت. | https://holooshop.com/product/نرم-افزار-حسابداری-مانتو-و-پوشاک-جامع-ه/ |
 | F03-S12 | C (vendor) | پارمیس — حسابداری تولیدی پوشاک، بازیابی ۱۲ مهر ۱۴۰۵ | تولید، BOM و برنامه‌ریزی مواد اولیه. | https://www.parmisit.com/products/acconting-software/small-bussiness-solution/clothing/ |
+
+### پیوست ب. تغییرنگار
+
+| نسخه | تاریخ | تغییر |
+|---|---|---|
+| ۲٫۰ | ۱۲ مهر ۱۴۰۵ | عنوان‌ها و hierarchy بدون حذف body یا evidence پیشین، به قالب استاندارد گزارش تحقیقات بازار تبدیل شد؛ این اقدام به معنی انجام پژوهش اولیه نیست. |
