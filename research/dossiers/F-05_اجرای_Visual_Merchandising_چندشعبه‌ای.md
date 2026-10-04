@@ -1,0 +1,154 @@
+# F-05 — اجرای Visual Merchandising چندشعبه‌ای
+
+**نوع پرونده:** desk-research کامل؛ پژوهش اولیه/پایلوت انجام نشده است.
+**بازار:** B2B؛ زنجیره‌های retail و franchise پوشاک
+**تصمیم فعلی:** **رد در desk-research** برای ساخت یک پلتفرم عمومی جدید؛ نه Pass.
+**تاریخ:** ۱۲ مهر ۱۴۰۵ / ۴ اکتبر ۲۰۲۶
+
+---
+
+## ۱. کارت تصمیم
+
+### تعریف اولیهٔ مسیر
+لایهٔ mobile-first برای تبدیل دستورالعمل Visual Merchandising ستاد به اجرای قابل‌مشاهده در شعب: campaign brief، visual guideline، task نقش‌محور، checklist، عکس قبل/بعد، annotation، approval/rework، escalation و dashboard انطباق.
+
+### مرز محصول
+
+- POS، ERP، مدیریت موجودی، price management یا حسابداری فروشگاه نیست؛
+- generic field-force / digital form / planogram CPG با نام fashion جدید نیست؛
+- ابزار تولید عکس/مدل AI نیست؛
+- شرکت نباید برای اجرا به تیم بازدید میدانی، نصب ویترین یا کنترل فیزیکی شعب وابسته شود.
+
+### نتیجهٔ بازنگری
+پژوهش جهانی نشان می‌دهد category واقعی و valuable است؛ اما desk scan ایران نشان می‌دهد بلوک‌های اصلی آن (task، فرم، عکس، approval، گزارش و حتی image recognition) از قبل توسط ابزارهای merchandising/بازارپردازی یا فرم‌ساز سازمانی پوشش داده می‌شوند. بنابراین شکافِ اثبات‌شده برای یک **پلتفرم عمومی** وجود ندارد. این مسیر با معیار کاربر برای «پلتفرم جدیدِ غیرِبازنام‌گذاری‌شده» همخوانی ندارد.
+
+---
+
+## ۲. مسئله و workflow عملیاتی
+
+### Job-to-be-done
+«ستاد می‌خواهد یک ویترین/مانکن/چیدمان کمپین را در شعب متعدد، تا deadline و با استاندارد واحد اجرا کند؛ مدیر منطقه باید از روی شواهد تصویری ببیند چه شعبه‌ای انجام داده، کجا مغایرت دارد و چه کاری نیاز به اصلاح دارد.»
+
+### workflow استاندارد category
+
+`campaign / guideline → segmentation شعب و نقش‌ها → task + checklist → اجرای شعبه → photo evidence → review/annotation → rework یا approval → dashboard/escalation → post-campaign learning`.
+
+برای پوشاک، objectهای اختصاصی ممکن است window display، mannequin look، fixture، color block، folding، signage، launch/drop و availability باشد. این objectها به‌تنهایی platform wedge نیستند؛ باید اثبات شود ابزارهای موجود واقعاً نمی‌توانند workflow و تصمیم‌گیری آن‌ها را پوشش دهند.
+
+---
+
+## ۳. benchmark جهانی
+
+YOOBIC نمونهٔ روشن Retail Operations Platform است: از HQ، mission و guideline به task/store execution، photo proof، annotation و real-time visibility می‌رسد. [F05-S01] case study Lacoste نیز از guideline و image/task validation استفاده می‌کند؛ اعداد case study را باید vendor-reported دانست. [F05-S02]
+
+YOOBIC برای Longchamp نیز مسیر communication → learning → task → photo validation را بیان می‌کند. [F05-S03] درس معتبر این است که category، صرفاً form collection نیست: adoption کارکنان، context آموزشی، loop بازخورد و مدیریت استثنا بخش محصول‌اند.
+
+| جزء جهانی | ارزش مشاهده‌شده | انتقال‌پذیری مستقیم ندارد |
+|---|---|---|
+| campaign mission + mobile task | تبدیل استاندارد به اقدام شعبه | metricهای ROI/vendor case study. |
+| photo proof + annotation | review asynchronous و rework قابل ردگیری | اینکه photo AI به‌تنهایی compliance را اثبات کند. |
+| dashboard / regional escalation | تمرکز HQ بر exception | قیمت‌گذاری و penetration در ایران. |
+| learning + communication | اجرای یکپارچه change management | نیاز به ساخت یک LMS/Retail OS جدید از روز اول. |
+
+---
+
+## ۴. نقشهٔ جایگزین‌ها و رقابت ایران
+
+### ۴-۱. substituteهای نزدیک و مستقیم
+
+1. **Cheena / Dinasys:** صفحهٔ رسمی مدیریت چیدمان فروشگاهی، اجرای دستورکار در سطح فروشگاه، ثبت before/after، کنترل تصویری، image recognition و شمارش اقلام را برای رامک توضیح می‌دهد. [F05-S04] این مثال در CPG است، نه اثبات fit برای fashion، اما بلوک کارکردی اصلی را پوشش می‌دهد.
+2. **Vision MIS 20:** در مطالب و محصول مدیریت بازارپردازی، تعریف فرم، ارسال عکس/ویدئو، گزارش و مدیریت عملیات merchandising معرفی شده است. [F05-S05][F05-S06]
+3. **iOrder / سامیان:** «کنترل بازارچینی کالا» با عکس و تأییدیهٔ چیدمان برای هر فروشگاه عرضه می‌شود. [F05-S07]
+4. **نرم‌افزارهای زنجیره‌ای و POS/ERP:** شعبه، کالا، قیمت، موجودی و گزارش متمرکز را پوشش می‌دهند؛ بنابراین ایده‌ای که برای کارکردن به این داده‌ها تکیه کند با integration/تعارض فروشنده روبه‌روست. [F05-S08]
+5. **WhatsApp/Excel/Drive و بازدید مدیر منطقه:** substitute ارزان و عادت‌محور برای brief، عکس و follow-up؛ weakness آن traceability و aggregation است، اما صفر نیست.
+
+### ۴-۲. رقابت‌پذیری
+
+| capability | YOOBIC | Cheena / Dinasys | Vision/iOrder | ابزارهای داخلی شعبه | نتیجه |
+|---|---:|---:|---:|---:|---|
+| task و checklist | بله | بله | بله | تا حدی | category خالی نیست. |
+| عکس proof | بله | بله، before/after | بله | تا حدی | core workflow موجود است. |
+| approval/rework/report | بله | کنترل/گزارش | تأییدیه/گزارش | دستی | مزیت باید بسیار اختصاصی باشد. |
+| image recognition | بله/ممکن | اعلام شده | نامشخص | خیر | AI به‌تنهایی wedge محافظت‌شده نیست. |
+| fashion-specific objects | ممکن | CPG-oriented | general merchandising | قابل سفارشی‌سازی | فقط hypothesis، نه evidence gap. |
+
+عدم مشاهدهٔ نام یک محصول عمودیِ صرفاً fashion-VM در ایران، به معنی white space نیست؛ چون outcome کلیدی از طریق محصولات نزدیک و فرایندهای داخلی قابل رسیدن است.
+
+---
+
+## ۵. مشتری، بازار و اقتصاد
+
+### ICP مفهومی
+زنجیرهٔ پوشاک/franchise با شعبه‌های متعدد، تقویم کمپین فعال، مدیران منطقه‌ای و هزینهٔ محسوس ناشی از اجرای ناهماهنگ. این تعریف هنوز با دادهٔ ایران اعتبارسنجی نشده است.
+
+### داده‌های گمشدهٔ حیاتی
+- تعداد retailerهای پوشاک با حداقل شعبه و cadence کمپین کافی؛
+- هزینهٔ واقعی عدم انطباق visual در فروش/brand؛
+- ابزار فعلی و contract/lock-in؛
+- willingness-to-pay مستقل از POS/ERP؛
+- اینکه مدیر منطقه واقعاً dashboard/approval جدید را هر روز استفاده می‌کند یا نه.
+
+به‌دلیل نبود این داده‌ها، TAM/SAM/SOM، قیمت per-store و ادعای صرفه‌جویی محاسبه نمی‌شوند.
+
+### مدل درآمدی، فقط در صورت بازگشایی فرضیه
+subscription B2B بر مبنای شعبه/کاربر فعال، onboarding محدود، و integration بدون lock-in به POS. اما همین مدل با ابزارهای موجود رقابت مستقیم دارد و تا discovery اثبات‌شده، توصیه‌ای برای ساخت نیست.
+
+---
+
+## ۶. عملیات، ریسک و validation record
+
+حتی در صورت بازگشایی، مدل باید software-only بماند: راه‌اندازی با guideline و role mapping محدود، capture عکس در موبایل، review غیرهم‌زمان مدیر منطقه و export ساده؛ نه تیم نصب ویترین، بازدید اجباری یا مشاورهٔ عملیاتی دائمی. نیاز به integration عمیق با POS/ERP نباید پیش‌شرط pilot باشد؛ زیرا هم cycle فروش را طولانی و هم رقابت با incumbentها را شدیدتر می‌کند.
+
+| ریسک تعیین‌کننده | اثر | کنترل/شاهد لازم پیش از هر بازگشایی |
+|---|---|---|
+| ابزار موجود کافی باشد | WTP برای workflow جدید ایجاد نمی‌شود. | workflow artifact-based از شعبه و مقایسهٔ واقعی با Cheena/Vision/iOrder/فرم داخلی، نه سؤال علاقه‌مندی. |
+| تیم برای هر شعبه intervention بخواهد | مدل به managed service و عملیات میدانی تبدیل می‌شود. | pilot باید با HQ brief و review از راه دور، بدون بازدید مجری، به completion برسد. |
+| عکس evidence قابل اتکا نباشد | approval نمایشی و dashboard بی‌ارزش می‌شود. | timestamp/branch/task، quality rule و audit نمونه‌ای؛ نه ادعای انطباق قطعی با image AI. |
+| integration/داده مانع خرید شود | چرخهٔ فروش و هزینه onboarding بالا می‌رود. | pilot standalone با import/export حداقلی و KPI استفادهٔ مدیر منطقه. |
+| «template فشن» به‌آسانی کپی شود | moat و pricing فرومی‌ریزد. | نشان‌دادن workflow/decision data اختصاصی که با feature سادهٔ incumbent پوشش نمی‌یابد. |
+
+### طرح تحقیق فقط برای trigger بازگشایی
+
+۸ مصاحبه artifact-based با زنجیره‌های پوشاک دارای ۱۵+ شعبه لازم است: یک campaign brief، عکس‌های شعب، روش review/rework، هزینه یا اثر عدم انطباق، ابزار فعلی و authority/budget. فقط اگر همهٔ معیارهای بخش ۸ برقرار بود، یک pilot کوتاه با یک کمپین، شعبه‌های منتخب و بدون عملیات میدانی مجاز است. در غیر این صورت، این مسیر رد می‌ماند و ساخت محصول/مدل درآمدی پیگیری نمی‌شود.
+
+---
+
+## ۷. چرا مسیر رد شد
+
+| معیار portfolio | مشاهده | نتیجه |
+|---|---|---|
+| platform-first و غیر بازنام‌گذاری‌شده | تعریف پایه، task/photo/approval/dashboard است. | با ابزارهای موجود هم‌پوشانی زیاد دارد. |
+| شکاف واقعی ایران | competitors/substitutes نزدیک برای core workflow وجود دارند. | شکاف اثبات نشده است. |
+| عدم نیاز به عملیات میدانی | ممکن است software-only باشد. | مزیت کافی برای عبور از competition ایجاد نمی‌کند. |
+| دفاع‌پذیری | fashion template و photo annotation به‌سادگی copyable است. | moat روشن نیست. |
+| امکان validation | قابل مصاحبه است. | ارزش research-only دارد، نه build-first. |
+
+بنابراین **F-05 رد می‌شود، نه به دلیل نبود مسئله بلکه به دلیل نبود تمایز platform-level اثبات‌شده در برابر محصولات داخلی نزدیک و فرایندهای موجود.**
+
+---
+
+## ۸. تنها شرط بازگشایی
+
+پرونده فقط با شواهد artifact-based از دست‌کم ۸ زنجیرهٔ پوشاک و ۱۵+ شعبه در هر زنجیره قابل بازگشایی است، اگر هم‌زمان همهٔ شروط زیر برقرار باشد:
+
+1. ابزارهای فعلی نتوانند execution عناصر واقعاً fashion-specific (look/mannequin/window/drop) را با approval trail پوشش دهند؛
+2. مسئله هزینه یا اثر commercial قابل اندازه‌گیری داشته باشد، نه صرفاً ناخشنودی از WhatsApp؛
+3. مشتری حاضر به پرداخت برای workflow مستقل، بدون تبدیل محصول به POS/ERP یا managed-service باشد؛
+4. یک workflow اختصاصی پیدا شود که با template/feature سادهٔ incumbents قابل کپی نباشد.
+
+در نبود این شواهد، تبدیل «بازارپردازی» به «VM OS» صرفاً نام‌گذاری جدید یک category اشباع‌شده است و نباید candidate تازه معرفی شود.
+
+---
+
+## ۹. evidence ledger
+
+| کد | رتبه | منبع | نکتهٔ استفاده‌شده | پیوند |
+|---|---|---|---|---|
+| F05-S01 | C / vendor | YOOBIC Visual Merchandising، بازیابی ۱۲ مهر ۱۴۰۵ | missions، guidelines، task، photo proof و HQ visibility. | https://yoobic.com/use-cases/visual-merchandising/ |
+| F05-S02 | C / vendor case study | YOOBIC × Lacoste، بازیابی ۱۲ مهر ۱۴۰۵ | image/task validation و workflow؛ metricها vendor claim. | https://yoobic.com/case-study/lacoste/ |
+| F05-S03 | C / vendor case study | YOOBIC × Longchamp، بازیابی ۱۲ مهر ۱۴۰۵ | communication-learning-task-photo validation. | https://yoobic.com/blog/longchamp-ai-luxury-retail-training/ |
+| F05-S04 | C / vendor case study | Dinasys / Cheena، بازیابی ۱۲ مهر ۱۴۰۵ | دستورکار چیدمان، before/after، image recognition؛ CPG use case. | https://dinasys.ir/نرم-افزار-مدیریت-چیدمان-فروشگاهی/ |
+| F05-S05 | C / vendor content | Vision، Merchandising، بازیابی ۱۲ مهر ۱۴۰۵ | فرم/تصویر/گزارش و مدیریت بازارپردازی. | https://persian.vision/Fa/Blog/Post/merchandising |
+| F05-S06 | C / product page | Vision MIS 20، بازیابی ۱۲ مهر ۱۴۰۵ | product capabilities for merchandising. | https://persian.vision/fa/products/details/vision-mis-20 |
+| F05-S07 | C / vendor | iOrder، بازیابی ۱۲ مهر ۱۴۰۵ | عکس و تأییدیهٔ بازارچینی در فروشگاه. | https://samiansoft.ir/iorder/merchandise-control-of-goods/ |
+| F05-S08 | C / vendor explainer | همکاران سیستم، فروشگاه زنجیره‌ای، بازیابی ۱۲ مهر ۱۴۰۵ | operations covered by chain-store systems. | https://www.systemgroup.net/knowledge-network/all-about-chainstore/ |

@@ -73,7 +73,7 @@
 | کمد دیجیتال و پیشنهاد استایل B2C | Whering و Acloset با میلیون‌ها کاربر | Essembl در مایکت کمد دیجیتال و پیشنهاد استایل دارد؛ گوگل فوتوز و Doppl نیز قابلیت‌های مشابه جهانی را وارد کرده‌اند | رد؛ هم AI-first و هم تمایز/پرداخت ضعیف |
 | Digital Product Passport / QR اصالت برند پوشاک | EON، Aura، Certilogo؛ اثر اصلی در بازار luxury/EU compliance | سرویس‌های QR، لیبل و استعلام سریال عمومی در ایران وجود دارند؛ QR ساده به‌آسانی کپی می‌شود | رد اولیه؛ فقط برای برندهای صادرکننده با NFC/زنجیرهٔ مالکیت ارزش بررسی مجدد دارد |
 | رنگ، lab-dip و تأیید رنگ پارچه | Datacolor/Coloro/ColordesQ؛ کاهش چرخه نمونه و خطای رنگ | جهان‌بارکد ثبت کالیته و طاقه دارد؛ Color iQC و Color iMatch در ایران عرضه می‌شوند | رد؛ عمق سخت‌افزار/نرم‌افزار موجود بالاست |
-| اجرای ویژوال مرچندایزینگ شعب پوشاک | YOOBIC در Lacoste/Longchamp؛ عکس مرجع، مأموریت، تأیید و feedback | چینا برای چیدمان فروشگاهی و ویژن برای مرچندایزینگ/عکس و فرم اجرا وجود دارند؛ ERPهای زنجیره‌ای نیز جایگزین‌اند | اولویت پایین؛ فقط اگر wedge ویژهٔ پوشاک (مانکن، ویترین، look و کمبود سایز) به‌وضوح ثابت شود |
+| اجرای ویژوال مرچندایزینگ شعب پوشاک | YOOBIC در Lacoste/Longchamp؛ عکس مرجع، مأموریت، تأیید و feedback | چینا برای چیدمان فروشگاهی و ویژن/iOrder برای فرم، عکس، تأیید و گزارش وجود دارند؛ ERPهای زنجیره‌ای نیز جایگزین‌اند | **رد/آرشیوی در desk-research نسخهٔ ۰٫۳**؛ core workflow هم‌پوشانی مستقیم دارد. فقط با evidence artifact-based از زنجیره‌های ۱۵+ شعبه و wedge غیرقابل‌کپی ویژهٔ fashion قابل بازگشایی است. |
 | مدیریت نمونهٔ فیزیکی لباس در PR/creator seeding | Launchmetrics؛ tracking نمونه، ارسال، پوشش رسانه‌ای و ROI؛ بیش از ۱۷۰۰ برند کاربر اعلام شده | آژانس‌های influencer marketing، فهرست اینفلوئنسر و WhatsApp/Excel جایگزین‌اند؛ محصول ایرانیِ اختصاصی برای **امانت، return، وضعیت هر لباس و حق استفاده از محتوا** در جست‌وجوی اولیه پیدا نشد | **فرضیهٔ قابل بررسی**؛ نبود رقیب قطعی نیست و باید حجم واقعی sample send-out و پرداخت برند سنجیده شود |
 | تداوم لباس و asset management برای فیلم/سریال/تبلیغات | SyncOnSet، Dramatify و Ready4Set؛ اسکریپت، look، سایز، عکس continuity، لباس‌های مشابه، تعمیر و wrap | جایگزین محتمل: دفتر تداوم، عکس موبایل، WhatsApp و Excel؛ جست‌وجوی اولیه محصول تخصصی ایرانی نشان نداد، اما بازار production-budget محدود است | **تأیید اولیهٔ کاربر**؛ اعتبارسنجی پرداخت باقی است |
 
@@ -183,3 +183,19 @@
 | F-03 | Tech Pack → sample/fit → locked bulk release | کامل؛ Techpacker، Delogue، Uphance، Excel/WhatsApp/RoChi/ERPهای ایران، boundary و kill criteria ثبت شد. | Watch؛ نه Pass | ۱۵ مصاحبه + دو pilot پولی با دو brand و دو کارگاه |
 
 فایل‌های audit-friendly هر پرونده در `research/dossiers/` قرار دارند. در register Excel و checklist Markdown، ستون‌های Desk Research، رقابت و ایران، و بازار و مدل برای F-01 تا F-03 تیک خوردند؛ «پژوهش اولیه» و «پروندهٔ کامل» عمداً تیک نخورده‌اند، زیرا مصاحبه/پایلوت هنوز انجام نشده است.
+
+---
+
+## گزارش جامع بازار — نسخهٔ ۰٫۳ / تکمیل desk-research دو پرونده
+
+دو dossier بعدی در هر دو نسخهٔ سند مادر (`reports/fashion_market_research_master_v0.docx` و نسخهٔ فارسی هم‌نام) افزوده و با register Excel و checklist Markdown همگام شدند.
+
+| کد | پرونده | desk research | حکم فعلی | گیت یا شرط بعدی |
+|---|---|---|---|---|
+| F-04 | اصالت‌سنجی مستقل پوشاک/اسنیکر پیش از معامله | کامل؛ LegitApp/CheckCheck/eBay/Entrupy، سیگنال و substituteهای ایران، مرز photo/physical، model، legal-risk و evidence ledger ثبت شد. | **Watch؛ نه Pass.** | discovery با buyer/reseller/expert، ۳۰ case پرداختی در category محدود، سنجش WTP، agreement و legal/liability design. |
+| F-05 | اجرای Visual Merchandising چندشعبه‌ای | کامل؛ YOOBIC/Lacoste/Longchamp و Cheena/Dinasys، Vision، iOrder، POS/chain-store substituteها و counter-thesis ثبت شد. | **رد / آرشیوی (desk).** | بازپیشنهاد نشود؛ فقط با evidence از ۸ زنجیرهٔ پوشاکِ ۱۵+ شعبه که ناتوانی ابزارهای موجود و wedge غیرقابل‌کپی را نشان دهد باز می‌شود. |
+
+- پرونده‌های audit-friendly: `research/dossiers/F-04_اصالت‌سنجی_مستقل_پوشاک_و_اسنیکر.md` و `research/dossiers/F-05_اجرای_Visual_Merchandising_چندشعبه‌ای.md`.
+- F-04 در Watch باقی مانده، زیرا observation آگهی/claim اصالت و نمونه‌های جهانی، اندازه بازار ایران، willingness-to-pay، quality کارشناسان یا مسئولیت حقوقی را اثبات نمی‌کنند.
+- F-05 از «اولویت پایین» به «رد/آرشیوی» منتقل شد؛ core platform پیشنهادی با ابزارهای محلیِ وظیفه/عکس/تأیید/گزارش هم‌پوشانی دارد. این تصمیم برای جلوگیری از بازنام‌گذاری category به عنوان candidate جدید ثبت شده است.
+- در register، برای هر دو F-04 و F-05 فقط Desk research، رقابت/ایران و بازار/مدل تکمیل شده‌اند؛ پژوهش اولیه همچنان `□` و پروندهٔ کامل `~` است. علامت `~` به معنی dossier کامل desk-research است، نه Pass یا تصمیم نهایی سرمایه‌گذاری.
