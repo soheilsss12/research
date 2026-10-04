@@ -10,7 +10,11 @@
 ---
 
 ## ۱. خلاصهٔ مدیریتی (Executive Summary)
-این پرونده در سطح desk-research است. نتیجهٔ اجرایی و وضعیت تصمیم در فصل ۱۲ آمده است؛ هیچ یافتهٔ primary یا اندازهٔ بازارِ تأییدنشده به‌عنوان واقعیت ارائه نمی‌شود.
+**F:** YOOBIC به‌طور رسمی task، photo proof، feedback، dashboard و سنجش compliance برای اجرای VM چندشعبه‌ای را عرضه می‌کند؛ category جهانی واقعی است. [F05-S01–S04][F05-S09]
+
+**F:** ابزارهای محلی برای عکس/تأیید/گزارش و عملیات فروشگاهی قبلاً مستند شده‌اند. [F05-S05–S08]
+
+**نتیجه:** F-05 رد/آرشیوی باقی می‌ماند: category واقعی بودن، white space ایران یا wedge دفاع‌پذیر fashion-specific را ثابت نمی‌کند.
 
 ## ۲. مقدمه، زمینهٔ کسب‌وکار و اهداف پژوهش (Introduction, Business Context & Objectives)
 ### تعریف اولیهٔ مسیر
@@ -30,6 +34,10 @@
 
 ## ۳. روش‌شناسی پژوهش و محدودیت‌ها (Research Methodology & Limitations)
 این پرونده بر desk-research، منابع عمومی و تحلیل workflow/جایگزین‌ها استوار است. مصاحبه، پیمایش، پایلوت و دادهٔ تراکنشی محلی تا این نسخه انجام نشده‌اند مگر آن‌که صراحتاً در متن خلاف آن ثبت شده باشد. صفحات vendor برای اثبات category یا قابلیت محصول به‌کار می‌روند، نه به‌تنهایی برای اثبات اندازهٔ بازار ایران، پرداخت‌پذیری یا نبود رقیب. همهٔ شکاف‌ها باید در گیت فصل ۱۳ آزموده شوند.
+
+### ۳-۱. بازبینی واقعی منابع در ۱۲ مهر ۱۴۰۵
+
+صفحهٔ fashion/luxury رسمی YOOBIC نشان می‌دهد workflow global معمولاً شامل ارسال guideline، task برای شعبه/role، photo proof، review/feedback، dashboard و follow-up است. این محصول VM را از یک checklist ساده جدا می‌کند، ولی هم‌زمان ثابت می‌کند category به task-management، communications و store operations وابستگی دارد. اعداد uplift/compliance همان vendor، vendor claim هستند و به ایران منتقل نمی‌شوند. [F05-S09]
 
 ## ۴. نمای کلی بازار و صنعت (Market & Industry Overview)
 YOOBIC نمونهٔ روشن Retail Operations Platform است: از HQ، mission و guideline به task/store execution، photo proof، annotation و real-time visibility می‌رسد. [F05-S01] case study Lacoste نیز از guideline و image/task validation استفاده می‌کند؛ اعداد case study را باید vendor-reported دانست. [F05-S02]
@@ -124,6 +132,14 @@ subscription B2B بر مبنای شعبه/کاربر فعال، onboarding مح�
 ## ۱۱. یافته‌ها، تحلیل و ارزیابی فرصت (Findings, Analysis & Opportunity Assessment)
 **تفکیک تحلیلی:** فصل‌های ۴ تا ۱۰ «یافته‌ها و شواهد موجود» را نگه می‌دارند؛ نتیجه‌گیری فصل ۱۲ تفسیر محافظه‌کارانهٔ آن‌هاست. نبود محصول یا عدد در منابع عمومی، به‌تنهایی evidence سفیدبودن بازار نیست. counter-thesis، ریسک و limitationهای عملیاتی باید بر توصیه مقدم باشند.
 
+### ۱۱-۱. نتیجهٔ بازبینی و دلیل ماندن در archive
+
+**F:** صورت مسئلهٔ global، بستهٔ task + photo verification + corrective action + reporting است؛ نه صرفاً یک app برای عکس مانکن. [F05-S09]
+
+**I:** همین تعریف به‌جای تقویت thesis، آن را به substituteهای ایران نزدیک‌تر می‌کند: اگر core در task/photo/approval/report باشد، fashion-only naming مزیت قابل دفاع نمی‌سازد.
+
+**Reversal condition:** فقط evidence artifact-based از دست‌کم ۸ زنجیرهٔ پوشاک ۱۵+ شعبه که نشان دهد substituteهای موجود در یک failure mode خاص fashion شکست می‌خورند، می‌تواند پرونده را باز کند. تا آن زمان build، pilot یا repositioning مجاز نیست.
+
 ## ۱۲. نتیجه‌گیری و توصیهٔ راهبردی (Conclusions & Strategic Recommendation)
 | معیار portfolio | مشاهده | نتیجه |
 |---|---|---|
@@ -161,8 +177,11 @@ subscription B2B بر مبنای شعبه/کاربر فعال، onboarding مح�
 | F05-S07 | C / vendor | iOrder، بازیابی ۱۲ مهر ۱۴۰۵ | عکس و تأییدیهٔ بازارچینی در فروشگاه. | https://samiansoft.ir/iorder/merchandise-control-of-goods/ |
 | F05-S08 | C / vendor explainer | همکاران سیستم، فروشگاه زنجیره‌ای، بازیابی ۱۲ مهر ۱۴۰۵ | operations covered by chain-store systems. | https://www.systemgroup.net/knowledge-network/all-about-chainstore/ |
 
+| F05-S09 | C (vendor) | YOOBIC — Fashion & Luxury Store Operations Platform، بازیابی ۱۲ مهر ۱۴۰۵ | guideline/task/photo proof/feedback/dashboard و boundary گستردهٔ retail operations؛ benefitها vendor claim. | https://yoobic.com/industries/fashion/ |
+
 ### پیوست ب. تغییرنگار
 
 | نسخه | تاریخ | تغییر |
 |---|---|---|
 | ۲٫۰ | ۱۲ مهر ۱۴۰۵ | عنوان‌ها و hierarchy بدون حذف body یا evidence پیشین، به قالب استاندارد گزارش تحقیقات بازار تبدیل شد؛ این اقدام به معنی انجام پژوهش اولیه نیست. |
+| ۲٫۱ | ۱۲ مهر ۱۴۰۵ | بازبینی واقعی workflow جهانی YOOBIC، دلیل overlap با substituteهای محلی و شرط محدود reversal را روشن‌تر کرد؛ رد/آرشیوی پابرجاست. |

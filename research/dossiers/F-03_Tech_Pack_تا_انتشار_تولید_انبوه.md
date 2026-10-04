@@ -11,7 +11,11 @@
 ---
 
 ## ۱. خلاصهٔ مدیریتی (Executive Summary)
-این پرونده در سطح desk-research است. نتیجهٔ اجرایی و وضعیت تصمیم در فصل ۱۲ آمده است؛ هیچ یافتهٔ primary یا اندازهٔ بازارِ تأییدنشده به‌عنوان واقعیت ارائه نمی‌شود.
+**F:** منابع رسمی Techpacker و Uphance، BOM، POM/grade، version history، همکاری سازنده و approval را به‌عنوان recordهای متصل مطرح می‌کنند؛ version drift و stale BOM failure modeهای واقعی product category هستند. [F03-S01][F03-S13–S15]
+
+**F:** ایران ابزارهای عمومی، آموزش Illustrator، service تولید و ERPهای BOM/production دارد؛ desk-research هیچ evidence قابل اتکایی از WTP برای یک لایهٔ مستقل handoff ارائه نمی‌کند. [F03-S07–S12]
+
+**نتیجه:** F-03 فقط Watch است. فرضیهٔ مجاز، record محدود «sample approval تا bulk release» است؛ نه PLM، ERP، CAD یا marketplace با نام جدید.
 
 ## ۲. مقدمه، زمینهٔ کسب‌وکار و اهداف پژوهش (Introduction, Business Context & Objectives)
 ### تعریف دقیق محصول
@@ -37,6 +41,10 @@
 
 ## ۳. روش‌شناسی پژوهش و محدودیت‌ها (Research Methodology & Limitations)
 این پرونده بر desk-research، منابع عمومی و تحلیل workflow/جایگزین‌ها استوار است. مصاحبه، پیمایش، پایلوت و دادهٔ تراکنشی محلی تا این نسخه انجام نشده‌اند مگر آن‌که صراحتاً در متن خلاف آن ثبت شده باشد. صفحات vendor برای اثبات category یا قابلیت محصول به‌کار می‌روند، نه به‌تنهایی برای اثبات اندازهٔ بازار ایران، پرداخت‌پذیری یا نبود رقیب. همهٔ شکاف‌ها باید در گیت فصل ۱۳ آزموده شوند.
+
+### ۳-۱. بازبینی واقعی منابع در ۱۲ مهر ۱۴۰۵
+
+راهنمای رسمی Techpacker همکاری مستقیم با سازنده، فایل/پیام در یک workspace و استفادهٔ مجدد از BOM/POM را توضیح می‌دهد؛ صفحهٔ قیمت، tier و قیمت‌گذاری ارزی محصول خارجی را منتشر می‌کند. Uphance نیز BOM، POM/grade، approval، version history و ارتباط با procurement/production را در یک product record شرح می‌دهد. این شواهد، existence و feature-boundary category را تقویت می‌کند؛ هیچ‌یک نرخ خطا، حجم برندهای ایران یا قیمت قابل پرداخت ایران را اندازه نمی‌گیرند. [F03-S13–S15]
 
 ## ۴. نمای کلی بازار و صنعت (Market & Industry Overview)
 ### ۳-۱. ابزار سبک: Techpacker
@@ -178,6 +186,14 @@ CAD، 3D fitting، pattern making، auto-generation با AI، sourcing marketpla
 ## ۱۱. یافته‌ها، تحلیل و ارزیابی فرصت (Findings, Analysis & Opportunity Assessment)
 **تفکیک تحلیلی:** فصل‌های ۴ تا ۱۰ «یافته‌ها و شواهد موجود» را نگه می‌دارند؛ نتیجه‌گیری فصل ۱۲ تفسیر محافظه‌کارانهٔ آن‌هاست. نبود محصول یا عدد در منابع عمومی، به‌تنهایی evidence سفیدبودن بازار نیست. counter-thesis، ریسک و limitationهای عملیاتی باید بر توصیه مقدم باشند.
 
+### ۱۱-۱. نتیجهٔ بازبینی شواهد
+
+**F:** ابزار سبک (Techpacker) و platform متصل (Uphance) هر دو «current version، BOM/POM، comment/approval و supplier handoff» را مسئله‌ای مستقل می‌دانند. [F03-S13–S15]
+
+**I:** این هم‌پوشانی خطر اصلی پرونده است: اگر account ایران واقعاً به procurement، PO، costing یا QC نیاز داشته باشد، wedge کوچک به PLM/ERP تبدیل می‌شود و باید رد شود؛ اگر فقط freeze/release و acknowledgement مشکل باشد، scope محدود ممکن است قابل آزمون بماند.
+
+**H / شرط رد:** قیمت ارزی Techpacker و مثال‌های marketing خارجی anchor قیمت ایران نیستند. تنها purchase signal قابل قبول، دو pilot پولی با styleهای واقعی و بازشدن release توسط دست‌کم دو کارگاه است.
+
 ## ۱۲. نتیجه‌گیری و توصیهٔ راهبردی (Conclusions & Strategic Recommendation)
 **F-03 در وضعیت Watch باقی می‌ماند.** category جهانی از ابزار lightweight تا PLM enterprise به‌خوبی اثبات شده، اما full PLM/ERP قبلاً رد شده و substituteهای محلی/دستی واقعی‌اند. تنها thesis قابل‌تحقیق، یک wedge بسیار محدود در مرز sample approval و production release است؛ نه یک نام جدید برای PLM.
 
@@ -224,8 +240,13 @@ CAD، 3D fitting، pattern making، auto-generation با AI، sourcing marketpla
 | F03-S11 | C (vendor) | هلو — حسابداری مانتو و پوشاک، بازیابی ۱۲ مهر ۱۴۰۵ | پنل تولید، مواد و عملیات برش/دوخت. | https://holooshop.com/product/نرم-افزار-حسابداری-مانتو-و-پوشاک-جامع-ه/ |
 | F03-S12 | C (vendor) | پارمیس — حسابداری تولیدی پوشاک، بازیابی ۱۲ مهر ۱۴۰۵ | تولید، BOM و برنامه‌ریزی مواد اولیه. | https://www.parmisit.com/products/acconting-software/small-bussiness-solution/clothing/ |
 
+| F03-S13 | C (vendor documentation) | Techpacker Help Center — *What is Techpacker?*، بازیابی ۱۲ مهر ۱۴۰۵ | BOM/POM reuse، collaboration و ارتباط مستقیم با manufacturer؛ category proof. | https://helpcenter.techpacker.com/hc/en-us/articles/360016021274-What-is-Techpacker- |
+| F03-S14 | C (vendor pricing) | Techpacker — Pricing، بازیابی ۱۲ مهر ۱۴۰۵ | tier و قیمت دلاری منتشرشده؛ فقط product/pricing-model خارجی، نه price anchor ایران. | https://techpacker.com/pricing/ |
+| F03-S15 | C (vendor) | Uphance — *Mastering the Tech Pack*، ۳۰ آوریل ۲۰۲۶، بازیابی ۱۲ مهر ۱۴۰۵ | stale BOM/version drift و version/approval/factory portal workflow. | https://www.uphance.com/insights/mastering-tech-pack/ |
+
 ### پیوست ب. تغییرنگار
 
 | نسخه | تاریخ | تغییر |
 |---|---|---|
 | ۲٫۰ | ۱۲ مهر ۱۴۰۵ | عنوان‌ها و hierarchy بدون حذف body یا evidence پیشین، به قالب استاندارد گزارش تحقیقات بازار تبدیل شد؛ این اقدام به معنی انجام پژوهش اولیه نیست. |
+| ۲٫۱ | ۱۲ مهر ۱۴۰۵ | بازبینی واقعی منابع Techpacker/Uphance، مرز product category و ریسک PLM/ERP overlap افزوده شد؛ Watch و نبود primary evidence حفظ شد. |

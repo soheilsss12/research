@@ -245,3 +245,19 @@
 - **F-01:** product guide رسمی Launchmetrics، state model گردش نمونه، substituteهای رسمی دیما/نشانت/تگرو، محدودیت data/consent و ریسک وابستگی به کانال مجدداً بررسی و در dossier، master و evidence ledger ثبت شد. این شواهد category و substitute را تقویت می‌کند، اما حجم حرکت نمونه، WTP و market size ایران را اثبات نمی‌کند.
 - **F-02:** اسناد رسمی SyncOnSet، Dramatify و Ready4Set برای تفاوت costume-first، integrated suite و web-first بررسی شد؛ signal عرضهٔ ایران از sizing جدا شد و گیت privacy/consent برای تصویر، اندازه و allergy بازیگر اضافه شد. هیچ عددی برای TAM یا budget ایران جعل نشد.
 - هر دو پرونده همچنان desk-research هستند: F-01 و F-02 **فعال برای اعتبارسنجی، نه Pass**. مصاحبهٔ artifact-based و pilot پولی پروژه‌ای/واقعی، مرحلهٔ اجباری بعدی‌اند.
+
+---
+
+## گزارش جامع بازار — نسخهٔ ۰٫۹ / بازبینی واقعی desk-research همهٔ F-01 تا F-07
+
+در این batch، تکمیل desk-research برای همهٔ dossierهای فعلی انجام شد؛ هیچ عدد بازار یا ادعای purchase intent بدون منبع/روش وارد نشده است.
+
+| کد | شواهد تازه یا بازبینی‌شده | نتیجهٔ وضعیت |
+|---|---|---|
+| F-03 | Techpacker/Uphance: version، BOM/POM، supplier handoff، approval و مرز PLM؛ قیمت خارجی به ایران تعمیم داده نشد. | Watch؛ فقط wedge محدود sample-approval → bulk-release قابل آزمون است. |
+| F-04 | LegitApp: عکس هدایت‌شده، AI + review انسانی، certificate و limitation نتیجهٔ عکس‌محور. | Watch؛ expert calibration، liability و WTP ایران اثبات نشده‌اند. |
+| F-05 | YOOBIC: task/photo-proof/feedback/dashboard؛ با ابزارهای محلی task/photo/approval هم‌پوشانی دارد. | رد/آرشیوی؛ category واقعی، gap محلی نیست. |
+| F-06 | Axiell/EMu: loan/movement/condition/right/insurance در CMS استاندارد. | رد/آرشیوی؛ standards/procurement و overlap با F-02 مانع wedge مستقل‌اند. |
+| F-07 | Covet/SuitU/Love Nikki: challenge، vote/social، IAP و distribution signal. | Pause به درخواست کاربر؛ retention، payer conversion و moderation economics ایران نامعلوم‌اند. |
+
+دossierهای F-01 و F-02 نیز با sourceهای رسمی جهانی/محلی، privacy/consent، substitute و design primary research در نسخهٔ ۰٫۸ عمیق شدند. تمام dossierهای F-01 تا F-07 اکنون ساختار استاندارد ۱۴فصلی، evidence ledger و changelog دارند؛ اما primary research/pilot هنوز فقط برنامه است، نه evidence انجام‌شده.
