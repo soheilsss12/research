@@ -213,3 +213,14 @@
 - پرونده: `research/dossiers/F-06_آرشیو_امانت_و_گزارش_وضعیت_لباس.md`.
 
 هم‌زمان، عبارت «یادداشت سازگاری فایل» از هر دو DOCX حذف شد و labelهای «نتیجهٔ اجرایی این نوبت» در سند به **«نتیجه»** تغییر یافتند.
+
+---
+
+## گزارش جامع بازار — نسخهٔ ۰٫۵ / تکمیل desk-research F-07
+
+**F-07 — فشن‌گیم اجتماعی بومی** با حفظ وضعیت **Pause به درخواست کاربر** به‌عنوان dossier desk-research ثبت شد.
+
+- benchmark جهانی: Covet Fashion، SuitU و Nikki نشان می‌دهند category شامل آواتار/wardrobe، challenge، رأی، ranking، asset/currency دیجیتال، story و Live Ops است؛ scale جهانی به بازار ایران تعمیم داده نشده است.
+- ایران: بازی ایرانی «مُدا» و listingهای dress-up/fashion challenge جاری در بازارهای اپ داخلی، همراه با rail پرداخت ریالی، substitute و distribution signal هستند. این‌ها gap، market size یا willingness-to-pay برای بازی اجتماعی تازه را اثبات نمی‌کنند.
+- **حکم: Pause؛ نه Pass و نه candidate فعال.** بازگشایی تنها با درخواست صریح کاربر ممکن است و در آن صورت باید به‌عنوان company بازی موبایل ــ با retention، economy، Live Ops، moderation و safety ــ اعتبارسنجی شود، نه یک اپ سادهٔ لباس‌پوشاندن.
+- پرونده: `research/dossiers/F-07_فشن‌گیم_اجتماعی_بومی.md`.
