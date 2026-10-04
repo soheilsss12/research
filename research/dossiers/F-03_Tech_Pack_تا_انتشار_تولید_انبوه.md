@@ -194,6 +194,10 @@ CAD، 3D fitting، pattern making، auto-generation با AI، sourcing marketpla
 
 **H / شرط رد:** قیمت ارزی Techpacker و مثال‌های marketing خارجی anchor قیمت ایران نیستند. تنها purchase signal قابل قبول، دو pilot پولی با styleهای واقعی و بازشدن release توسط دست‌کم دو کارگاه است.
 
+### ۱۱-۲. شاهد فرآیندی ایران و مرز استنباط
+
+یک منبع تخصصی نساجی ایران، زنجیرهٔ design → tech pack/CAD → pattern → sample → QC → گفت‌وگو برای production bulk را توصیف می‌کند. [F03-S16] **F با رتبه C:** این، هم‌راستایی واژگانی/فرآیندی با thesis را نشان می‌دهد. **محدودیت:** مقاله به frequency version drift، تعداد کارگاه‌های چندطرفه، paid pain یا رفتار approval دیجیتال داده نمی‌دهد. بنابراین شاهد وجود process است، نه شاهد product-market fit یا gap نرم‌افزاری.
+
 ## ۱۲. نتیجه‌گیری و توصیهٔ راهبردی (Conclusions & Strategic Recommendation)
 **F-03 در وضعیت Watch باقی می‌ماند.** category جهانی از ابزار lightweight تا PLM enterprise به‌خوبی اثبات شده، اما full PLM/ERP قبلاً رد شده و substituteهای محلی/دستی واقعی‌اند. تنها thesis قابل‌تحقیق، یک wedge بسیار محدود در مرز sample approval و production release است؛ نه یک نام جدید برای PLM.
 
@@ -244,9 +248,12 @@ CAD، 3D fitting، pattern making، auto-generation با AI، sourcing marketpla
 | F03-S14 | C (vendor pricing) | Techpacker — Pricing، بازیابی ۱۲ مهر ۱۴۰۵ | tier و قیمت دلاری منتشرشده؛ فقط product/pricing-model خارجی، نه price anchor ایران. | https://techpacker.com/pricing/ |
 | F03-S15 | C (vendor) | Uphance — *Mastering the Tech Pack*، ۳۰ آوریل ۲۰۲۶، بازیابی ۱۲ مهر ۱۴۰۵ | stale BOM/version drift و version/approval/factory portal workflow. | https://www.uphance.com/insights/mastering-tech-pack/ |
 
+| F03-S16 | C (رسانه/دانشنامه تخصصی) | نساجی دات‌کام — مراحل تولید لباس، بازیابی ۱۲ مهر ۱۴۰۵ | حضور tech pack، sample، QC و تصمیم production bulk در توصیف فرآیند ایران؛ نه evidence WTP یا SaaS gap. | https://nasaji.com/دانشنامه-نساجی/مراحل-تولید-لباس/ |
+
 ### پیوست ب. تغییرنگار
 
 | نسخه | تاریخ | تغییر |
 |---|---|---|
 | ۲٫۰ | ۱۲ مهر ۱۴۰۵ | عنوان‌ها و hierarchy بدون حذف body یا evidence پیشین، به قالب استاندارد گزارش تحقیقات بازار تبدیل شد؛ این اقدام به معنی انجام پژوهش اولیه نیست. |
 | ۲٫۱ | ۱۲ مهر ۱۴۰۵ | بازبینی واقعی منابع Techpacker/Uphance، مرز product category و ریسک PLM/ERP overlap افزوده شد؛ Watch و نبود primary evidence حفظ شد. |
+| ۲٫۲ | ۱۲ مهر ۱۴۰۵ | شواهد محلی قابل راستی‌آزمایی به ledger و تحلیل افزوده شد؛ limitations، status و نبود primary research صریحاً حفظ شد. |

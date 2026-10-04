@@ -299,6 +299,10 @@ Instagram و پیام‌رسان‌ها کانال عملیاتی محتمل‌�
 
 ---
 
+### ۱۱-۳. شاهد محلیِ مرتبط و نتیجهٔ منفیِ مهم
+
+دیما افیلیت برای پوشاک، link اختصاصی، کمیسیون و همکاری با ناشر/creator را به‌عنوان channel فروش معرفی می‌کند و از همکاری بانی‌مد با ۴۰۰+ برند نام می‌برد؛ همهٔ اعداد/ادعاهای vendor در این منبع مستقل نیستند. [F01-S16] **F:** این منبع وجود campaign/affiliate rail در پوشاک را تأیید می‌کند. **I:** این دقیقاً تأکید می‌کند که F-01 نباید به attribution/commission یا influencer marketplace تبدیل شود؛ آن لایه از قبل substitute دارد. منبع، هیچ evidenceی از حجم sample loan، return یا پرداخت برای custody record ارائه نمی‌کند.
+
 ## ۱۲. نتیجه‌گیری و توصیهٔ راهبردی (Conclusions & Strategic Recommendation)
 
 **نتیجه.** F-01 در وضعیت **فعال برای اعتبارسنجی** باقی می‌ماند؛ نه Pass و نه توصیهٔ ساخت. category جهانی و workflow تخصصی آن به‌خوبی قابل مشاهده است. بازار ایران دارای پلتفرم‌های campaign/influencer و ابزارهای عمومی است، اما evidence مستقیم از sample-loan record تخصصی در این desk-research دیده نشد. فاصلهٔ مشاهده‌شده فقط یک hypothesis است؛ نه white space و نه مجوز ساخت.
@@ -366,6 +370,8 @@ Instagram و پیام‌رسان‌ها کانال عملیاتی محتمل‌�
 | F01-S14 | A (متن قانون منتشرشده توسط مرجع رسمی) | پلیس فتا — قانون تجارت الکترونیکی، مواد ۵۸ و ۵۹، بازیابی ۱۲ مهر ۱۴۰۵ | رضایت/هدف روشن/دسترسی و اصلاح یا حذف داده‌پیام شخصی؛ نیازمند تفسیر حقوقی اختصاصی پیش از اجرا. | https://www.cyberpolice.ir/page/2581 |
 | F01-S15 | B (منبع دولتی ثانویه) | GOV.UK — *Country policy and information note: social media, surveillance and sur place activities, Iran*، آوریل ۲۰۲۵، بازیابی ۱۲ مهر ۱۴۰۵ | تداوم استفاده از Instagram/WhatsApp/Telegram با وجود محدودیت؛ فقط proxy ریسک کانال، نه TAM. | https://www.gov.uk/government/publications/iran-country-policy-and-information-notes/country-policy-and-information-note-social-media-surveillance-and-sur-place-activities-iran-april-2025-accessible |
 
+| F01-S16 | C (vendor) | دیما افیلیت — همکاری در فروش لباس و پوشاک، بازیابی ۱۲ مهر ۱۴۰۵ | affiliate/link/commission در پوشاک؛ substitute برای marketplace/attribution، نه evidence sample custody یا market size. | https://deema.agency/همکاری-در-فروش-لباس/ |
+
 ### پیوست ب. تغییرنگار
 
 | نسخه | تاریخ | تغییر |
@@ -373,3 +379,4 @@ Instagram و پیام‌رسان‌ها کانال عملیاتی محتمل‌�
 | ۱٫۰ | پیش از ۱۲ مهر ۱۴۰۵ | پروندهٔ desk-research اولیه ثبت شد. |
 | ۲٫۰ | ۱۲ مهر ۱۴۰۵ | ساختار پرونده بدون حذف شواهد، به hierarchy استاندارد گزارش تحقیقات بازار تبدیل شد؛ primary research همچنان انجام نشده است. |
 | ۲٫۱ | ۱۲ مهر ۱۴۰۵ | desk-research واقعی تکمیلی: workflow رسمی Launchmetrics، substituteهای رسمی ایران، ریسک data/consent و instrument پژوهش اولیه افزوده شد؛ وضعیت فعال و نبود primary evidence تغییری نکرد. |
+| ۲٫۲ | ۱۲ مهر ۱۴۰۵ | شواهد محلی قابل راستی‌آزمایی به ledger و تحلیل افزوده شد؛ limitations، status و نبود primary research صریحاً حفظ شد. |

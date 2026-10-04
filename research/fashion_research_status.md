@@ -261,3 +261,15 @@
 | F-07 | Covet/SuitU/Love Nikki: challenge، vote/social، IAP و distribution signal. | Pause به درخواست کاربر؛ retention، payer conversion و moderation economics ایران نامعلوم‌اند. |
 
 دossierهای F-01 و F-02 نیز با sourceهای رسمی جهانی/محلی، privacy/consent، substitute و design primary research در نسخهٔ ۰٫۸ عمیق شدند. تمام dossierهای F-01 تا F-07 اکنون ساختار استاندارد ۱۴فصلی، evidence ledger و changelog دارند؛ اما primary research/pilot هنوز فقط برنامه است، نه evidence انجام‌شده.
+
+---
+
+## گزارش جامع بازار — نسخهٔ ۱٫۰ / شواهد محلی قابل راستی‌آزمایی
+
+- **F-01:** دیما افیلیت پوشاک نشان می‌دهد affiliate/link/commission از قبل یک لایهٔ موجود است؛ بنابراین مسیر sample circulation نباید به marketplace یا attribution تبدیل شود.
+- **F-02:** عدد ۱۸۰ پروانه فیلم‌سازی و ۳۴۷ پروانه غیرسینمایی فقط proxy عرضهٔ مجوز است؛ برای sizing costume software استفاده نشده است.
+- **F-03:** توضیح فرآیند تولید پوشاک ایران، tech pack → sample → QC → bulk را نشان می‌دهد؛ pain پرداخت‌پذیر یا gap نرم‌افزار را اثبات نمی‌کند.
+- **F-04:** وجود اصطلاح Legit Check و روش DIY در فروش تخصصی اسنیکر تأیید شد؛ fraud rate و WTP هنوز نامعلوم‌اند.
+- **F-07:** پیمایش رسمی تا پایان ۱۴۰۰، ۳۴ میلیون گیمر و غلبهٔ موبایل را گزارش می‌کند؛ چون کل-category و تاریخی است، به‌عنوان TAM فشن‌گیم استفاده نشده است.
+
+هیچ status تغییر نکرده است. این نسخه حد نهایی desk-research قابل انجام از منابع عمومی است؛ عبور از آن برای F-01 تا F-04 مستلزم پژوهش اولیه و pilot واقعی است.
