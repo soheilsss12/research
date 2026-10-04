@@ -1,0 +1,49 @@
+﻿opportunity_id,submarket_codes,precise_product_thesis,payer,evidence_level,evidence_anchor,revenue_model,minimum_pilot,initial_decision
+OP01,C05/C08,عملیات تعویض و مرجوعی پوشاک چندکاناله,فروشنده پوشاک اجتماعی/marketplace,A,پادرو workflow سفارش را پوشش می‌دهد؛ reviews retail به refund/return اشاره دارند.,SaaS + هزینه هر تعویض موفق,۲۰ فروشنده، baseline زمان حل/نرخ مرجوعی,Pilot
+OP02,C08/U08,reconciliation سفارش، موجودی و قیمت فروشنده,SME چندکاناله,A,کاتالوگ/سفارش پادرو و بازارهای فروشنده وجود دارد؛ integration عمومی فضای خالی نیست.,SaaS شعبه/فروشگاه,import فایل، ۱۰ merchant، کاهش زمان تسویه,Pilot
+OP03,C02,کیفیت feed و conversion برای price discovery,فروشنده/retailer,B,ترب به‌عنوان price comparison مشاهده شده؛ quality feed یک job جدا از marketplace است.,SaaS/lead,دسترسی feed و پرداخت برای lead باکیفیت,Revise
+OP04,C06,verification و پس‌فروش vertical برای کالای دست‌دوم,فروشنده/خریدار vertical,B,شیپور و marketplaceهای عمومی حاضرند؛ trust/inspection در taxonomy جداست.,commission + service fee,یک vertical، dispute rate و conversion,Revise
+OP05,C09,procurement و سفارش تکراری B2B برای retail کوچک,خرده‌فروش/تامین‌کننده,C,نمونه جهانی Faire/Udaan؛ ایران نیازمند supply partner دارد.,SaaS + commission,دو تامین‌کننده anchor و ۳۰ خریدار,Revise
+OP06,F02,سواد مالی و کنترل هزینه نوجوان با شریک مالی,والد/نوجوان/شریک بانکی,B,بلو جونیور و زیپاد در collectionهای فروشگاهی دیده می‌شوند؛ family finance job مستقل است.,B2B2C/قرارداد شریک,consent والد، ۵۰۰ خانواده، usage هفتگی,Revise
+OP07,F07,financial co-pilot خانوادگی برای بدهی/قبض/هدف,خانوار,C,بودجه‌بندی جهانی گسترده است؛ اتصال داده/اعتماد ایران باید بررسی شود.,اشتراک خانواده,۳۰ خانواده، retention هفته چهارم,Revise
+OP08,F13,invoice-to-cash برای SME خدماتی,مالک SME,B,حسابداری/فاکتور family اقتصادی مستقل است؛ integration محلی مزیت ممکن است.,SaaS ماهانه,۱۰ SME، چرخه وصول و renewal,Pilot
+OP09,F14,loyalty anti-fraud برای merchant شبکه‌ای,merchant/retailer,C,cashback/reward جهانی پرتکرار است اما fraud/merchant funding gate است.,SaaS + campaign fee,۳ merchant، redemption سالم و repeat,Revise
+OP10,F15,shift-payroll و advance حقوق برای نیروی خدمات,کارفرما,C,workforce/payroll global pattern؛ قوانین کار/مالی ایران تعیین‌کننده است.,B2B SaaS,یک کارفرما، payroll accuracy و consent,Revise
+OP11,M07/M09,میز پس از رزرو سفر و مدیریت اختلال,آژانس/اقامتگاه,A,راهنماهای علی‌بابا refund/change و reviews reliability friction را نشان می‌دهند.,SaaS اپراتوری,دو آژانس، ۱۰۰ پرونده، time-to-first-response,Pilot
+OP12,M12,اسناد، تسویه و workflow ناوگان بار,ناوگان/shipper,B,freight/fleet job جدا از taxi است؛ global comparator Motive/Uber Freight.,SaaS seat/vehicle,یک ناوگان، تکمیل سند و settlement time,Revise
+OP13,M13,پرونده سرویس و warranty خودرو,تعمیرگاه/مالک خودرو,A,باما قیمت/آگهی/خدمات را پوشش می‌دهد و freshness/trust issue discovery دارد.,SaaS تعمیرگاه + service fee,۵ تعمیرگاه، service history ثبت‌شده,Pilot
+OP14,M14,route/charging planner ناوگان EV,fleet/EV operator,C,global examples are hardware/network dependent; ایران نیازمند station data است.,B2B SaaS,داده ایستگاه و partner ناوگان,Watch
+OP15,H02,OS تیم خدمات: زمان‌بندی، قیمت‌نامه، عکس، ضمانت,مالک تیم خدمات,A,آچاره/سنجاق/خدمت از ما/هوم‌سرویز و painهای quality/price/support مشاهده شده‌اند.,SaaS هر تکنسین,۳ تیم، ۱۵ تکنسین، ثبت ≥۶۰٪ کار,Pilot
+OP16,H04,lead-to-project بازسازی با برآورد و milestone,پیمانکار/مالک,C,home-remodel job global؛ نیازمند execution partner محلی.,lead fee + SaaS,دو پیمانکار، quote accuracy و completion,Revise
+OP17,H07,مدیریت ساختمان: شارژ، ticket و اطلاع‌رسانی,مدیر ساختمان/هیئت‌مدیره,B,buyer سازمانی/محلی روشن است؛ category consumer جداست.,اشتراک ساختمان,۵ مجتمع، پرداخت شارژ و WAU مدیر,Pilot
+OP18,H10,dashboard مصرف انرژی ساختمان/کسب‌وکار,مدیر ملک/SME,C,smart utility وابسته به داده meter/biller است.,B2B subscription,دسترسی مصرف و baseline کاهش هزینه,Revise
+OP19,D05,پیگیری درمان بعد از ویزیت برای pathway محدود,کلینیک/بیمار,A,doctor booking landscape و painهای refund/reminder/schedule دیده شده‌اند.,SaaS کلینیک,یک pathway، ۵۰ بیمار، consent و completion,Revise
+OP20,D06,سلامت زنان غیرتشخیصی با care plan و referral,کاربر/کلینیک,B,هرلایف/ایمپو در cohort دیده می‌شوند؛ privacy/medical boundary gate است.,اشتراک + partner care,clinical review، consent، retention ۴ هفته,Revise
+OP21,D10,adherence برای بیماری مزمن با dashboard کلینیک,کلینیک/بیمه,C,global Omada/Livongo pattern؛ partner payer لازم است.,B2B2C contract,کلینیک partner و outcome protocol,Revise
+OP22,D11,nutrition clinic workflow و meal adherence,کلینیک/مربی,B,کرفس و global diet apps نشانگر category‌اند؛ clinical claim مرز دارد.,SaaS coach/clinic,۲۰ کاربر، adherence و renewals,Revise
+OP23,D15,caregiver coordination سالمندی,خانواده/provider,C,global pattern اما family/privacy/safety نیازمند discovery است.,اشتراک خانواده,۲۰ caregiver، check-in و incident protocol,Watch
+OP24,E06/E07,دفتر ارتباط والد-معلم و رضایت‌نامه,مدرسه/والد,A,شاد نقش‌های نهادی دارد و همیار content؛ workflow والد/مدرسه job جداست.,قرارداد سالانه مدرسه,۳ مدرسه، usage معلم و consent والد,Pilot
+OP25,E04,spaced repetition برای آزمون/حرفه محدود,دانش‌آموز/متقاضی آزمون,B,global Anki/Quizlet pattern؛ محتوای فارسی/نتیجه شرط است.,اشتراک/فروش محتوا,یک آزمون، completion و payment,Revise
+OP26,E11,career pathway با employer outcome,کارجو/کارفرما,C,course content commoditized؛ employer partner تمایز است.,employer fee + learner,۲ employer، interview/placement metric,Revise
+OP27,E14,assistive learning برای نیاز ویژه,والد/مرکز آموزشی,C,special needs category distinct؛ expert content/safety لازم است.,B2B school/center,یک مرکز، outcome expert-reviewed,Watch
+OP28,K03,workflow شبکه/تلویزیون برای catch-up و rights ops,رسانه/مالک محتوا,C,VOD داخلی حاضر است؛ rights/catch-up back-office entry ممکن‌تر از VOD جدید است.,B2B SaaS,یک مالک محتوا، ingest-to-publish SLA,Watch
+OP29,K04,micro-drama با حقوق روشن و cohort محدود,ناشر/استودیو,B,short-drama global pattern و VOD داخلی observable است؛ rights gate دارد.,اشتراک/IAP,catalog محدود، completion و payment,Revise
+OP30,K09,ابزار creator پادکست: distribution و sponsorship ops,podcaster/network,B,audio/podcast supply در ایران visible است؛ rights/marketplace job جداست.,SaaS + sponsorship fee,۲۰ creator، published episodes و renewal,Revise
+OP31,K15,CRM، check-in و reconciliation برگزارکننده,برگزارکننده رویداد,B,ticketing category distinct و buyer organizer روشن است.,SaaS/هر رویداد,۵ organizer، check-in time و renewal,Pilot
+OP32,V06,کاتالوگ AI-assisted برای فروشنده با human approval,merchant/تیم محتوا,A,Canva/CapCut global و پادرو local workflow وجود دارند؛ editor عمومی gap نیست.,credit + SaaS,۲۰ merchant، کاهش زمان و weekly usage,Pilot
+OP33,V11/U18,OCR فارسی برای اسناد عملیاتی SME,SME/تیم عملیات,B,document intelligence global pattern؛ accuracy/privacy باید ثابت شود.,credit + SaaS,۱۰۰ سند، accuracy target و payment,Revise
+OP34,V01/H02,field photo evidence قبل/بعد برای خدمات,تیم خدمات/بازرسی,B,camera عمومی crowded؛ service team OS evidence مستقیم دارد.,SaaS per team,۳ تیم، photo completion و dispute reduction,Pilot
+OP35,S08,creator commerce back-office: لینک، سفارش، کمیسیون,creator/merchant,B,social network effect بالاست؛ commerce ops identifiable است.,SaaS + commission,۳۰ creator، GMV attributable و retention,Revise
+OP36,S07,vertical professional community با expert moderation,جامعه حرفه‌ای,C,general social no-go؛ niche peer workflow ممکن است.,عضویت/سازمانی,۱ جامعه، WAU و moderation load,Watch
+OP37,U09/R04,restaurant multi-channel reconciliation,restaurant owner,A,FoodPartner order/price workflow و fulfillment/support pain دیده شده‌اند.,SaaS شعبه‌ای,۱۰ رستوران، کاهش زمان تسویه ≥۴۰٪,Pilot
+OP38,U10,shift scheduling برای تیم خدمات/رستوران,کارفرما,B,workforce software global; local team ops demand adjacent.,SaaS seat,۳ employer، shift fill و renewal,Revise
+OP39,U17,automation برای workflow SME، نه consumer macro,SME,C,Tasker/Zapier global pattern؛ integration local needed.,SaaS usage-based,۵ SME، automated runs و payment,Watch
+OP40,U19,digital wellbeing/parent controls for schools,مدرسه/والد,C,child privacy and institutional workflow needed.,school contract,۲ مدرسه، consent و adoption,Watch
+OP41,R04,restaurant menu/price/order reconciliation,restaurant manager,A,SnappFood merchant onboarding/order/price features direct; pain in fulfillment/refund.,SaaS,۱۰ رستوران، revenue reconciliation,Pilot
+OP42,R07,meal planning → grocery list for household,خانوار/grocery partner,C,recipe and grocery are distinct; link must create repeat purchase.,affiliate/SaaS,۵۰ household، repeat and conversion,Revise
+OP43,L04,family organizer with school/health/finance hooks,خانواده,C,parenting jobs fragmented across health/education/finance.,family subscription,۳۰ family، weekly active and retention,Watch
+OP44,L07,pet clinic reminder and record workflow,دامپزشک/مالک حیوان,C,pet vertical lacks direct current ledger; global examples only.,clinic SaaS,۲ clinic، visits and reminder completion,Watch
+OP45,P05,safety workflow for verified organizations,سازمان/خانواده,C,personal safety cannot be app-only; response partner is gate.,B2B contract,authority/organization partner and incident protocol,No-Go بدون شریک
+OP46,W07,weather-risk alert for agriculture operations,کشاورز/تامین‌کننده,A,تهک/هشدارهای رسمی observed; action/ROI not yet proven.,B2B contract,۵ partner، alert action and loss baseline,Revise
+OP47,W08,weather disruption alert for logistics/fleet,مدیر عملیات,B,weather data available; operational workflow/ROI is separate job.,B2B SaaS,یک fleet، incidents avoided and renewal,Revise
+OP48,G08,esports/community operations for lawful events,organizer/community,C,games evidence not prioritized; rights/policy/community needed.,event SaaS,"one organizer, legal review and retention",Watch
