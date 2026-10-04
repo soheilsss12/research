@@ -303,6 +303,10 @@ Instagram و پیام‌رسان‌ها کانال عملیاتی محتمل‌�
 
 دیما افیلیت برای پوشاک، link اختصاصی، کمیسیون و همکاری با ناشر/creator را به‌عنوان channel فروش معرفی می‌کند و از همکاری بانی‌مد با ۴۰۰+ برند نام می‌برد؛ همهٔ اعداد/ادعاهای vendor در این منبع مستقل نیستند. [F01-S16] **F:** این منبع وجود campaign/affiliate rail در پوشاک را تأیید می‌کند. **I:** این دقیقاً تأکید می‌کند که F-01 نباید به attribution/commission یا influencer marketplace تبدیل شود؛ آن لایه از قبل substitute دارد. منبع، هیچ evidenceی از حجم sample loan، return یا پرداخت برای custody record ارائه نمی‌کند.
 
+### ۱۱-۴. لایهٔ تنظیم‌گریِ فروش اجتماعی؛ مرز دقیق با circulation
+
+مرکز توسعهٔ تجارت الکترونیکی اعلام می‌کند کسب‌وکارهای فعال در شبکه‌های اجتماعی و پیام‌رسان‌های مجاز نیز می‌توانند اینماد بگیرند و در اطلاعیهٔ دیگری، درج شناسهٔ کالا برای عرضهٔ پوشاک/منسوجات در وب‌سایت، شبکهٔ اجتماعی و اپلیکیشن را الزامی دانسته است. [F01-S17] **F:** commerce rail و product-data requirement برای فروش پوشاک در فضای اجتماعی قابل مشاهده است. **I:** F-01 اگر به سفارش/فروش یا affiliate-attribution تبدیل شود، به همین لایهٔ موجود و تعهدات آن نزدیک می‌شود. محصول فرضی باید record گردش نمونه را از transaction/marketplace جدا نگه دارد. **L:** این منابع نه به امانت نمونه، creator seeding، consent تصویری، return rate یا WTP اشاره می‌کنند؛ applicability دقیق به مدل پیشنهادی وابسته به طراحی حقوقی است.
+
 ## ۱۲. نتیجه‌گیری و توصیهٔ راهبردی (Conclusions & Strategic Recommendation)
 
 **نتیجه.** F-01 در وضعیت **فعال برای اعتبارسنجی** باقی می‌ماند؛ نه Pass و نه توصیهٔ ساخت. category جهانی و workflow تخصصی آن به‌خوبی قابل مشاهده است. بازار ایران دارای پلتفرم‌های campaign/influencer و ابزارهای عمومی است، اما evidence مستقیم از sample-loan record تخصصی در این desk-research دیده نشد. فاصلهٔ مشاهده‌شده فقط یک hypothesis است؛ نه white space و نه مجوز ساخت.
@@ -372,6 +376,8 @@ Instagram و پیام‌رسان‌ها کانال عملیاتی محتمل‌�
 
 | F01-S16 | C (vendor) | دیما افیلیت — همکاری در فروش لباس و پوشاک، بازیابی ۱۲ مهر ۱۴۰۵ | affiliate/link/commission در پوشاک؛ substitute برای marketplace/attribution، نه evidence sample custody یا market size. | https://deema.agency/همکاری-در-فروش-لباس/ |
 
+| F01-S17 | A (مرجع رسمی تجارت الکترونیکی) | اینماد — FAQ و اطلاعیهٔ الزام شناسهٔ کالا برای پوشاک/منسوجات، بازیابی ۱۲ مهر ۱۴۰۵ | social-commerce و الزام شناسه برای عرضهٔ آنلاین پوشاک؛ مرز regulatory برای فروش، نه evidence گردش نمونه یا TAM. | https://www.enamad.ir/Faq ; https://www.enamad.ir/News/NewsShow?Newsid=68 |
+
 ### پیوست ب. تغییرنگار
 
 | نسخه | تاریخ | تغییر |
@@ -380,3 +386,4 @@ Instagram و پیام‌رسان‌ها کانال عملیاتی محتمل‌�
 | ۲٫۰ | ۱۲ مهر ۱۴۰۵ | ساختار پرونده بدون حذف شواهد، به hierarchy استاندارد گزارش تحقیقات بازار تبدیل شد؛ primary research همچنان انجام نشده است. |
 | ۲٫۱ | ۱۲ مهر ۱۴۰۵ | desk-research واقعی تکمیلی: workflow رسمی Launchmetrics، substituteهای رسمی ایران، ریسک data/consent و instrument پژوهش اولیه افزوده شد؛ وضعیت فعال و نبود primary evidence تغییری نکرد. |
 | ۲٫۲ | ۱۲ مهر ۱۴۰۵ | شواهد محلی قابل راستی‌آزمایی به ledger و تحلیل افزوده شد؛ limitations، status و نبود primary research صریحاً حفظ شد. |
+| ۲٫۳ | ۱۲ مهر ۱۴۰۵ | deep desk-research با یک منبع محلی/رسمی تازه، implication، limitation و عدم تبدیل آن به evidence اولیه تکمیل شد. |

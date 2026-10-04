@@ -273,3 +273,21 @@
 - **F-07:** پیمایش رسمی تا پایان ۱۴۰۰، ۳۴ میلیون گیمر و غلبهٔ موبایل را گزارش می‌کند؛ چون کل-category و تاریخی است، به‌عنوان TAM فشن‌گیم استفاده نشده است.
 
 هیچ status تغییر نکرده است. این نسخه حد نهایی desk-research قابل انجام از منابع عمومی است؛ عبور از آن برای F-01 تا F-04 مستلزم پژوهش اولیه و pilot واقعی است.
+
+---
+
+## گزارش جامع بازار — نسخهٔ ۱٫۱ / deep desk-research همهٔ پرونده‌ها
+
+این batch برای **هر هفت پرونده** یک منبع تازه را source-level بازبینی و با `F` (fact)، `I` (interpretation) و `L` (limitation) در dossier و سند مادر ثبت کرد:
+
+| پرونده | شاهد تازه | اثر تحلیلیِ مجاز | چیزی که هنوز ثابت نشده است |
+|---|---|---|---|
+| F-01 | اینماد: social-commerce و الزام شناسهٔ پوشاک | مرزبندی محصول circulation از marketplace/sale | sample-loan volume، return rate، WTP custody |
+| F-02 | سازمان سینمایی: costume و production documents در موزه | category evidence برای asset record | workflow سرصحنه، buyer و budget |
+| F-03 | کنترل تولید پوشاک محلی با BOM/QC | substitute در downstream factory control | spec-version drift و پرداخت برای hand-off |
+| F-04 | قانون مالکیت صنعتی ۲۰۲۴ در WIPO Lex | نیازمند legal wording/dispute policy | fraud rate، enforceability عملی و WTP |
+| F-05 | نمونهٔ ۲۰+ شعبه و incumbent محلی | cohort و stack موجود واقعاً قابل مشاهده‌اند | failure mode اختصاصی VM و پرداخت مستقل |
+| F-06 | ساختار رسمی ثبت/حفاظت/آرشیو اموال فرهنگی | complexity/governance counter-thesis | بازار private collection و procurement قابل‌فروش |
+| F-07 | پیمایش ملی ۱۴۰۲/موبایل | context distribution تازه‌تر و روش‌دار | share ژانر فشن، retention، payer و moderation |
+
+**نتیجه:** هیچ status تغییر نکرده است. شواهد جدید بعضاً thesis را محدودتر کرده‌اند؛ هیچ‌کدام جای مصاحبهٔ artifact-based، مشاهدهٔ workflow یا pilot پرداختی را نمی‌گیرند.

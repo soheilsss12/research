@@ -198,6 +198,10 @@ CAD، 3D fitting، pattern making، auto-generation با AI، sourcing marketpla
 
 یک منبع تخصصی نساجی ایران، زنجیرهٔ design → tech pack/CAD → pattern → sample → QC → گفت‌وگو برای production bulk را توصیف می‌کند. [F03-S16] **F با رتبه C:** این، هم‌راستایی واژگانی/فرآیندی با thesis را نشان می‌دهد. **محدودیت:** مقاله به frequency version drift، تعداد کارگاه‌های چندطرفه، paid pain یا رفتار approval دیجیتال داده نمی‌دهد. بنابراین شاهد وجود process است، نه شاهد product-market fit یا gap نرم‌افزاری.
 
+### ۱۱-۳. substitute محلیِ factory-control و معنای آن برای wedge
+
+صفحهٔ محصول «آرمان تدبیر پوشاک» برای کارخانه/کارگاه پوشاک، زمان‌بندی، quality control، order tracking، inventory و BOM/شناسنامهٔ طاقه را عرضه می‌کند. [F03-S17] **F:** حداقل یک عرضه‌کنندهٔ محلی مدعی پوشش بخش downstreamِ تولید و BOM است. **I:** فرض «همه‌چیز با Excel انجام می‌شود» قابل اتکا نیست؛ wedge F-03 فقط در pre-production specification/version/approval hand-off قابل آزمون است، نه در بازنام‌گذاری control-production. **L:** این source vendor است؛ ادعای «تنها» محصول، تعداد مشتری، کیفیت اجرا و WTP independently verified نیست و صفحه از POM/version history/supplier acknowledgementِ دقیق evidence نمی‌دهد.
+
 ## ۱۲. نتیجه‌گیری و توصیهٔ راهبردی (Conclusions & Strategic Recommendation)
 **F-03 در وضعیت Watch باقی می‌ماند.** category جهانی از ابزار lightweight تا PLM enterprise به‌خوبی اثبات شده، اما full PLM/ERP قبلاً رد شده و substituteهای محلی/دستی واقعی‌اند. تنها thesis قابل‌تحقیق، یک wedge بسیار محدود در مرز sample approval و production release است؛ نه یک نام جدید برای PLM.
 
@@ -250,6 +254,8 @@ CAD، 3D fitting، pattern making، auto-generation با AI، sourcing marketpla
 
 | F03-S16 | C (رسانه/دانشنامه تخصصی) | نساجی دات‌کام — مراحل تولید لباس، بازیابی ۱۲ مهر ۱۴۰۵ | حضور tech pack، sample، QC و تصمیم production bulk در توصیف فرآیند ایران؛ نه evidence WTP یا SaaS gap. | https://nasaji.com/دانشنامه-نساجی/مراحل-تولید-لباس/ |
 
+| F03-S17 | C (vendor/product page) | آرمان تدبیر پوشاک — کنترل تولید، ۲۹ ژانویه ۲۰۲۴، بازیابی ۱۲ مهر ۱۴۰۵ | ادعای زمان‌بندی/QC/order/inventory/BOM در تولید پوشاک؛ substitute downstream، نه اثبات adoption یا gap tech-pack. | https://gctco.ir/arman-tadbir-pooshak/ |
+
 ### پیوست ب. تغییرنگار
 
 | نسخه | تاریخ | تغییر |
@@ -257,3 +263,4 @@ CAD، 3D fitting، pattern making، auto-generation با AI، sourcing marketpla
 | ۲٫۰ | ۱۲ مهر ۱۴۰۵ | عنوان‌ها و hierarchy بدون حذف body یا evidence پیشین، به قالب استاندارد گزارش تحقیقات بازار تبدیل شد؛ این اقدام به معنی انجام پژوهش اولیه نیست. |
 | ۲٫۱ | ۱۲ مهر ۱۴۰۵ | بازبینی واقعی منابع Techpacker/Uphance، مرز product category و ریسک PLM/ERP overlap افزوده شد؛ Watch و نبود primary evidence حفظ شد. |
 | ۲٫۲ | ۱۲ مهر ۱۴۰۵ | شواهد محلی قابل راستی‌آزمایی به ledger و تحلیل افزوده شد؛ limitations، status و نبود primary research صریحاً حفظ شد. |
+| ۲٫۳ | ۱۲ مهر ۱۴۰۵ | deep desk-research با یک منبع محلی/رسمی تازه، implication، limitation و عدم تبدیل آن به evidence اولیه تکمیل شد. |

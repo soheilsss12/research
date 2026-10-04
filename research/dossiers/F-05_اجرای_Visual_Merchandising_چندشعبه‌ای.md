@@ -140,6 +140,10 @@ subscription B2B بر مبنای شعبه/کاربر فعال، onboarding مح�
 
 **Reversal condition:** فقط evidence artifact-based از دست‌کم ۸ زنجیرهٔ پوشاک ۱۵+ شعبه که نشان دهد substituteهای موجود در یک failure mode خاص fashion شکست می‌خورند، می‌تواند پرونده را باز کند. تا آن زمان build، pilot یا repositioning مجاز نیست.
 
+### ۱۱-۲. وجود cohort چندشعبه‌ای و incumbent؛ شرط لازم، نه دلیل ساخت
+
+کیان در صفحهٔ مشتری خود می‌گوید برند چرم منط بیش از ۲۰ شعبه و فروش اینترنتی دارد و از ۱۳۹۸ از software یکپارچهٔ کیان برای مدیریت شعب/online store استفاده می‌کند؛ صفحهٔ اصلی کیان نیز پوشاک/کیف‌وکفش را segment و مشتریان متعدد پوشاک را نام می‌برد. [F05-S10] **F:** حداقل یک account چندشعبه‌ای بالاتر از threshold ۱۵ شعبه و یک incumbent software محلی قابل مشاهده است. **I:** وجود target cohort به معنای empty stack نیست؛ داده/ERP/omnichannel از پیش در محیط مشتری وجود دارد و VM layer باید pain مستقلی نشان دهد. **L:** هر دو صفحه vendor-authored هستند؛ تعداد شعب/رابطهٔ مشتری و قابلیت‌ها مستقل تأیید نشده‌اند و هیچ شاهدی از planogram/visual-compliance failure یا پرداخت برای VM جداگانه ندارند.
+
 ## ۱۲. نتیجه‌گیری و توصیهٔ راهبردی (Conclusions & Strategic Recommendation)
 | معیار portfolio | مشاهده | نتیجه |
 |---|---|---|
@@ -179,9 +183,12 @@ subscription B2B بر مبنای شعبه/کاربر فعال، onboarding مح�
 
 | F05-S09 | C (vendor) | YOOBIC — Fashion & Luxury Store Operations Platform، بازیابی ۱۲ مهر ۱۴۰۵ | guideline/task/photo proof/feedback/dashboard و boundary گستردهٔ retail operations؛ benefitها vendor claim. | https://yoobic.com/industries/fashion/ |
 
+| F05-S10 | C (vendor + customer-story) | کیان نور رایانه — صفحهٔ مشتری چرم منط و صفحهٔ راهکار، بازیابی ۱۲ مهر ۱۴۰۵ | ادعای ۲۰+ شعبه/فروش آنلاین و استفاده از software یکپارچه؛ existence proof cohort/incumbent، نه WTP یا failure mode بصری. | https://kyansoftco.com/mante-chainstore/ ; https://kyansoftco.com/ |
+
 ### پیوست ب. تغییرنگار
 
 | نسخه | تاریخ | تغییر |
 |---|---|---|
 | ۲٫۰ | ۱۲ مهر ۱۴۰۵ | عنوان‌ها و hierarchy بدون حذف body یا evidence پیشین، به قالب استاندارد گزارش تحقیقات بازار تبدیل شد؛ این اقدام به معنی انجام پژوهش اولیه نیست. |
 | ۲٫۱ | ۱۲ مهر ۱۴۰۵ | بازبینی واقعی workflow جهانی YOOBIC، دلیل overlap با substituteهای محلی و شرط محدود reversal را روشن‌تر کرد؛ رد/آرشیوی پابرجاست. |
+| ۲٫۲ | ۱۲ مهر ۱۴۰۵ | deep desk-research با یک منبع محلی/رسمی تازه، implication، limitation و عدم تبدیل آن به evidence اولیه تکمیل شد. |
